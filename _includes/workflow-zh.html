@@ -13,7 +13,7 @@
   <div class="workflow-item chinese-text">
     {{ bu.number }}
     <h2>{{ bu.title }}</h2>
-    {% if bu.img-path %}<img src="{{ bu.img-path }}" title="{{ step.title | append: ' Illustration' }}">{% endif %}
+    <img src="{{ bu.img-path }}" title="{{ step.title | append: ' Illustration' }}">
     <p>{{ bu.description }}</p>
   </div><!-- End workflow step -->
   {% unless forloop.last == true %}

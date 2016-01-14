@@ -14,7 +14,7 @@
   <div class="workflow-item">
     {{ step.number }}
     <h2>{{ step.title }}</h2>
-    {% if step.img-path %}<img src="{{ step.img-path }}" title="{{ step.title | append: ' Illustration' }}">{% endif %}
+    <img src="{{ step.img-path }}" title="{{ step.title | append: ' Illustration' }}">
     <p>{{ step.description }}</p>
   </div><!-- End workflow step -->
   {% unless forloop.last == true %}
