@@ -50,7 +50,7 @@
             </g>
           </svg>
 
-- title: Payment
+- title: 付款
   description: !xml |
                <ul>
                  <li>需求方不用等待翻译Pull Request被Merged了。他／她之前或者之后都可以付款。</li>

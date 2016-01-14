@@ -3,10 +3,10 @@
   <channel>
     <title>BitcoinZH</title>
     <description>China Talks Bitcoin</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Jan 2016 02:09:06 +0000</pubDate>
-    <lastBuildDate>Thu, 14 Jan 2016 02:09:06 +0000</lastBuildDate>
+    <link>http://127.0.0.1:4000/</link>
+    <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 14 Jan 2016 19:51:03 +0000</pubDate>
+    <lastBuildDate>Thu, 14 Jan 2016 19:51:03 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -20,11 +20,33 @@
 
 &lt;p&gt;Representative’s from Deloitte’s global cryptocurrency team and Wanxiang Blockchain Labs were on hand to offer mentorship to all participants. As each team presented their original applications, they were in with a chance of winning up to a generous $10,000 in prizes.&lt;/p&gt;
 
-&lt;p&gt;From 1/6/16 to 1/11/16, cryptocurrency experts from Deloitte’s Innovation Labs in the US, Canada and Ireland and, along with their colleagues in China, organized a series of blockchain events in Shenzhen, Shanghai and Beijing in the run up to the main event. These included a series of lectures, exclusive blockchain application research and training events. On the afternoon of 8 January,&lt;/p&gt;
+&lt;p&gt;From 1/6/16 to 1/11/16, cryptocurrency experts from Deloitte’s Innovation Labs in the US, Canada and Ireland and, along with their colleagues in China, organized a series of blockchain events in Shenzhen, Shanghai and Beijing in the run up to the main event. These included a series of lectures, exclusive blockchain application research and training events. On the afternoon of 8 January, in an exclusive meeting led by Ms Qin Yi，Blockchain Project Manager at Deloitte Innovation Labs, Deloitte’s Chief Economist and Senior Cloud Engineers were at hand for a comprehensive presentation of blockchain workflows present and future.&lt;/p&gt;
+
+&lt;p&gt;When we talk about ‘internet’ and ‘cloud tech’, what do we really mean? When we talk about disrupting the assets industry, what do we really mean? When what we are discussing in let loose on the current financial sector, what kind of sparks will it ignite? These questions all point to a single answer - blockchain technology. The blockchain, through a form of decentralization, collectively creates and defends a persistent database. This offers potential strategic directions to the financial sector, thereby attracting the attention of executives and investors across the globe.&lt;/p&gt;
+
+&lt;p&gt;According to a study by Magister Advisor, the total investment of the banking sector into blockchain development will be in excess of US$1bn. This represents the fastest development of any field of software. 9 top-class global banks including Barclays, Credit Suisse and Morgan Stanley have already joined an organization led by R3, aiming to set out standards and protocols for blockchain technology within the banking sector. On 30 Dec, 2015, NASDAQ completed the first securities transaction on a blockchain platform, a significant milestone in the decentralization of financial markets.&lt;/p&gt;
+
+&lt;p&gt;In essence, blockchain technology one which uses a distributed network of computer nodes to maintain a shared source of information. As each node keeps a copy of the full historical record of the database,  they contribute to protecting the integrity and accuracy of the data. Viewed through the prism of financial information, this means each node keeps a full copy of the distributed ledger, including the full transaction history of all network participants. As the copy held by each node is immutable, the totality of information can be trusted.&lt;/p&gt;
+
+&lt;p&gt;At the same time, the encryption of blockchain data maintains its security - all transactions are recorded in this encrypted state, including time, date and ID. Once recorded on the ledger, the transaction cannot be deleted, undone or amended. Although all participants hold a full encrypted database, their private keys only enable them to browse information related to their transactions.&lt;/p&gt;
+
+&lt;p&gt;Before any transaction is recorded on the distributed database, it will undergo highly complex checks and verifications. The network is continuously monitored by its participating nodes, who receive regular updates on its status, thereby ensuring consistency and eliminating any source of risk. Because every node can identify and refuse to merge into the database any corrupted transaction data, blockchain technology itself really is capable of eliminating any corrupted data.&lt;/p&gt;
+
+&lt;p&gt;Through real-time monitoring, this innovative design ensures data is not tampered with, offering participants and interested parties a single source of truth. The blockchain is without doubt the only technology that doesn’t depend on intermediaries or third parties, but only its own ledger to show consistency of transaction verifications and accuracy of corporate finances.&lt;/p&gt;
+
+&lt;p&gt;Deloitte’s global cryptocurrency team, part of Deloitte Digital, counts over 100 members all devoted to researching how to use technology to raise standards of service, and exploring blockchain-based solutions for its customers. They are bringing together several leading engineering schools such as MIT, and diverse blockchain development teams to establish strategic partnerships. Deloitte’s focus on the utility of blockchain technology is not only to drive efficiencies for its clients, but also for Deloitte itself. Deloitte’s blockchain platform, Rubix, is the cutting edge of its Deloitte Digital consultancy service, taking advantage of the blockchain’s most avant-garde technology and use cases.&lt;/p&gt;
+
+&lt;h3 id=&quot;rubix&quot;&gt;RUBIX&lt;/h3&gt;
+
+&lt;p&gt;Deloitte Rubix was the first team created exclusively to research the use of blockchain technology in the financial sector, using its most avant-garde technology, business models and global development supplier databases. It has already, in partnership with institutionally significant banks, developed several blockchain-based applications for the financial services sector. Outside the financial sector, the Rubix team has also developed almost 30 applications for corporate planning， some at proof of concept stage and some already in practical use.&lt;/p&gt;
+
+&lt;p&gt;Among the applications designed by Rubix, Deloitte’s Perma Rec blockchain application technology stands out. It’s a globally distributed ledger, which through financial reporting systems such as SAP and Oracle, increases transparency in buy-sell transaction flows. Finally, auditors can also use it for real-time data calls to achieve 360-degree operational status and automatize tax and compliance reporting, benefitting both clients and internal regulators.&lt;/p&gt;
+
+&lt;p&gt;As Deloitte’s China Eastern Regional Managing Partner, Mr Patrick Tsang, points out, this hackathon is just a starting point. All kinds of ideas based on disruptive blockchain technology are provoking keen interest, and in the foreseeable future will have a profound influence on a large number of industries within the financial sector, creating opportunities for cooperation across different areas of expertise, increasing efficiencies in resource deployment and assisting in corporate transformations. Whether by enthusiastic adoption or passive acceptance, it will upset the status quo in all kinds of industries.&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/shanghai-blockchain-hackathon</link>
-        <guid isPermaLink="true">http://localhost:4000/shanghai-blockchain-hackathon</guid>
+        <link>http://127.0.0.1:4000/shanghai-blockchain-hackathon</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/shanghai-blockchain-hackathon</guid>
         
         
         <category>china-talks-bitcoin</category>
@@ -41,7 +63,7 @@
 
 &lt;p&gt;Note: The “digital gold” referred to here is cryptocurrency, not electronic currencies based on a gold standard (E-money).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain.jpg&quot; alt=&quot;Response to What A BlockChain Is by chehw_1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain.jpg&quot; alt=&quot;Response to What A BlockChain Is by chehw_1&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A blockchain is a ledger whose contents cannot easily be tampered with, its entries in a sequence that may not easily be tampered with. The theory and robustness are principally based on the maturity of hash algorithms. Its features include timestamping and a distributed database (for consistent ledger contents) with backups in different locations.&lt;/p&gt;
 
@@ -55,7 +77,7 @@
 
 &lt;p&gt;[Bitcoin] = [Digital gold] + [PoW blockchain] + [P2P]. This is the first time trustless digital cash and transactions have ever been realised.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-2.jpg&quot; alt=&quot;Response to What A BlockChain Is by a1379246856&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-2.jpg&quot; alt=&quot;Response to What A BlockChain Is by a1379246856&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;a1379246856&quot;&gt;a1379246856:&lt;/h3&gt;
 
@@ -70,12 +92,12 @@
   &lt;li&gt;To create a bitcoin transaction, it’s sufficient to broadcast the transaction details to the P2P network. When the miners’ record of your transaction has become part of a new block on the blockchain, the transaction is complete.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-3.jpg&quot; alt=&quot;Response to What A BlockChain Is by sumubaobei&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-3.jpg&quot; alt=&quot;Response to What A BlockChain Is by sumubaobei&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;sumubaobei&quot;&gt;sumubaobei:&lt;/h3&gt;
 &lt;p&gt;What are you, wikipedia?!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-4.jpg&quot; alt=&quot;Response to What A BlockChain Is by 芭比馒头&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-4.jpg&quot; alt=&quot;Response to What A BlockChain Is by 芭比馒头&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;barbies-steamed-buns&quot;&gt;芭比馒头 (Barbie’s steamed buns):&lt;/h3&gt;
 &lt;blockquote&gt;
@@ -84,22 +106,22 @@
 
 &lt;p&gt;Sorted, OP owes you 20 bucks.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-5.jpg&quot; alt=&quot;Response to What A BlockChain Is by bitbybit&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-5.jpg&quot; alt=&quot;Response to What A BlockChain Is by bitbybit&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;bitbybit&quot;&gt;bitbybit:&lt;/h3&gt;
 &lt;p&gt;chehw_1’s explanation was the most well-defined, you could put it in a textbook.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-6.jpg&quot; alt=&quot;Response to What A BlockChain Is by sider&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-6.jpg&quot; alt=&quot;Response to What A BlockChain Is by sider&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;sider&quot;&gt;sider:&lt;/h3&gt;
 &lt;p&gt;I don’t know, don’t ask such hard questions&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-7.jpg&quot; alt=&quot;Response to What A BlockChain Is by Xseraph2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-7.jpg&quot; alt=&quot;Response to What A BlockChain Is by Xseraph2&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;xseraph2&quot;&gt;Xseraph2:&lt;/h3&gt;
 &lt;p&gt;I bow in admiration before chehw_1, every word is original, not one copied and pasted.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-8.jpg&quot; alt=&quot;Response to What A BlockChain Is by idgui.com&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-8.jpg&quot; alt=&quot;Response to What A BlockChain Is by idgui.com&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;idguicom&quot;&gt;idgui.com:&lt;/h3&gt;
 &lt;p&gt;A few of the comments above are pretty thorough, so I’ll just give an easy-to-understand introduction:&lt;/p&gt;
@@ -119,21 +141,21 @@ Bitcoin’s blockchain is decentralized. It can’t be controlled or altered by 
 Blockchain applications record data on the blockchain as a proof of its existence. Because of the blockchain’s mass consensus system, it can be used to issue proofs of stock and equity. There are too many blockchain applications already, you couldn’t name them all in a lifetime, but all this blockchain technology aims at decentralization and immutability. And for the moment, the only one which can achieve this is bitcoin. In a way therefore, you can consider all blockchains to be based on the Bitcoin blockchain technology.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-9.jpg&quot; alt=&quot;Response to What A BlockChain Is by 510685947&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-9.jpg&quot; alt=&quot;Response to What A BlockChain Is by 510685947&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;section&quot;&gt;510685947:&lt;/h3&gt;
 &lt;p&gt;Put simply it’s just a ledger. Whatever good and bad things you’ve done, like what you came to chat about today, did you have breakfast today, have you jerked off today, every incident is recorded. POW doesn’t have so much CPU it can’t be modified, POS doesn’t have so much coin it can’t be modified, it’s as simple as that.&lt;/p&gt;
 
 &lt;p&gt;Note: 510685947’s signature says “Thanks Satoshi, for bringing us together. Thanks 8btc, for letting us meet our bros from every corner of the world.”&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-10.jpg&quot; alt=&quot;Response to What A BlockChain Is by zln0927&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-10.jpg&quot; alt=&quot;Response to What A BlockChain Is by zln0927&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;zln0927&quot;&gt;zln0927:&lt;/h3&gt;
 &lt;p&gt;Bitcoin is a token of value built on blockchain value. Other cryptocurrencies are also built on blockchains, although at the moment Bitcoin’s is the best.&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Jan 2016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/what-is-a-blockchain</link>
-        <guid isPermaLink="true">http://localhost:4000/what-is-a-blockchain</guid>
+        <link>http://127.0.0.1:4000/what-is-a-blockchain</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/what-is-a-blockchain</guid>
         
         
         <category>china-talks-bitcoin</category>

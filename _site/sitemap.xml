@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:4000/shanghai-blockchain-hackathon</loc>
+    <loc>http://127.0.0.1:4000/shanghai-blockchain-hackathon</loc>
     <lastmod>2016-01-12T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/what-is-a-blockchain</loc>
+    <loc>http://127.0.0.1:4000/what-is-a-blockchain</loc>
     <lastmod>2016-01-11T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/about/</loc>
+    <loc>http://127.0.0.1:4000/about/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/chinese-bitcoin-translations/</loc>
+    <loc>http://127.0.0.1:4000/chinese-bitcoin-translations/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/china-talks-bitcoin/</loc>
+    <loc>http://127.0.0.1:4000/china-talks-bitcoin/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/</loc>
+    <loc>http://127.0.0.1:4000/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/pages/workflow-zh.html</loc>
+    <loc>http://127.0.0.1:4000/pages/workflow-zh.html</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/pages/workflow.html</loc>
+    <loc>http://127.0.0.1:4000/pages/workflow.html</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/requests/chinese-english/chinese-request.html</loc>
+    <loc>http://127.0.0.1:4000/requests/chinese-english/chinese-request.html</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/requests/english-chinese/a-sample-request.html</loc>
+    <loc>http://127.0.0.1:4000/requests/english-chinese/a-sample-request.html</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/requests/</loc>
+    <loc>http://127.0.0.1:4000/requests/</loc>
   </url>
 </urlset>

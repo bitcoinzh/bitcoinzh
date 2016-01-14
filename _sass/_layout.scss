@@ -333,6 +333,9 @@ div.social-shares {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
   }
+  circle {
+    stroke: $red-color;
+  }
   @include media-query($on-tablet) {
     svg {
       width: 3.6rem;

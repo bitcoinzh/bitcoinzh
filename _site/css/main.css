@@ -519,6 +519,8 @@ div.social-shares {
     -ms-transform: scale(1.1);
     -webkit-transform: scale(1.1);
     transform: scale(1.1); }
+  div.social-shares circle {
+    stroke: #cf000f; }
   @media screen and (max-width: 800px) {
     div.social-shares svg {
       width: 3.6rem;
