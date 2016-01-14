@@ -7,7 +7,7 @@
 
                  <li>在文件里填写您的Github用户名，需求期限，赔付数额，付款钱包地址和您想要被翻译的内容。</li>
 
-                 <li>提交您的Pull Request.</li>
+                 <li>把您的Pull Request提交到bitcoinzh.</li>
                </ul>
   img-path: request-file-zh.jpg
   number: !xml |
@@ -31,6 +31,8 @@
                  <li>首先把bitcoinzh的Github Repo做自己的Fork。</li>
 
                  <li>打开您想翻译的文件，填写您的Github用户名，比特币钱包地址和翻译内容。</li>
+
+                 <li>把您的Pull Request提交到bitcoinzh.</li>
 
                  <li>您可以使用@bitcoinzh在您选择的社会媒体上，为了公布您打算做完这一个项目。</li>
                </ul>
