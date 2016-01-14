@@ -1,0 +1,47 @@
+<head>
+  <!-- Basics -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="{{ site.author }}">
+
+  <meta name="robots" content="index, follow">
+  <!-- Schema.org -->
+  <meta itemprop="name" content="{{ page.title | append: ' | ' }}{{ site.title }}">
+  <meta itemprop="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | truncate: 160 }}{% endif %}">
+  <!-- Twitter -->
+  <meta itemprop="image" content="{% if page.img-path %}{{ "{{ page.img-path | prepend: site.baseurl | prepend: site.url }}"{% else %}{{ "/images/logo/bitcoinzh-logo-logotype480.jpg" | prepend: site.baseurl | prepend: site.url }}{% endif %}">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="{{ site.twitter_username }}">
+  <meta name="twitter:title" content="{{ site.title | append: ' | '}}{{ page.title }}">
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% elsif page.introduction %}{{ page.introduction }}{% else %}{{ site.description | truncate: 160 }}{% endif %}">
+  <meta name="twitter:creator" content="{{ site.author }}">
+  <!-- Twitter Summary card images must be at least 120x120px -->
+  <meta name="twitter:image" content="{% if page.img-path %}{{ "{{ page.img-path | prepend: site.baseurl | prepend: site.url }}"{% else %}{{ "/images/logo/bitcoinzh-logo-logotype480.jpg" | prepend: site.baseurl | prepend: site.url }}{% endif %}">
+  <!-- Open Graph -->
+  <meta property="og:title" content="{{ site.title | append: ' | '}}{{ page.title }}">
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
+  <meta property="og:image" content="{% if page.img-path %}{{ "{{ page.img-path | prepend: site.baseurl | prepend: site.url }}"{% else %}{{ "/images/logo/bitcoinzh-logo-logotype480.jpg" | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% elsif page.introduction %}{{ page.introduction }}{% else %}{{ site.description | truncate: 160 }}{% endif %}" />
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="article:tag" content="{{ page.title }}" />
+  <meta property="fb:admins" content="Facebook numberic ID" />
+  <!-- Favicons -->
+  <link rel="apple-touch-icon-precomposed" href="/images/logo/bitcoinzh_logo_tile152.png">
+  <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/images/logo/bitcoinzh_logo_tile120.png">
+  <link rel="apple-touch-icon-precomposed" href="/images/logo/bitcoinzh_logo_tile57.png">
+  <meta name="msapplication-TileColor" content="#FFFFFF">
+  <meta name="msapplication-TileImage" content="/images/logo/bitcoinzh_logo_tile144.png">
+  <link rel="icon" href="/images/logo/bitcoinzh_logo_tile152.png" sizes="152x152">
+  <link rel="icon" href="/images/logo/bitcoinzh_logo_tile48.png" sizes="48x48">
+
+  <title>{{ page.title | append: ' | '}}{{ site.title }}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <link rel="stylesheet" href="{{ "/css/normalize.css" }}">
+  <link rel="stylesheet" href="{{ "/css/main.css" }}">
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,400' rel='stylesheet' type='text/css'>
+</head>

@@ -1,0 +1,20 @@
+---
+layout: default
+title: Translation Requests
+---
+<h1 class="index-heading">Translation Requests</h1>
+<ul class="requests-index">
+{% for request in site.requests %}
+  {% unless forloop.last == true %}
+  <a class="post-link" href="{{ request.url }}">
+    <div class="request-skew"></div>
+    <li>
+      <h2{% if request.source-language == 'chinese' %} class="chinese-text"{% endif %}>{{ request.title | truncate: 48 }}</h2>
+      <span class="request-indexmeta"><strong>From: </strong>{{ request.request-github-username }}</span>
+      <time class="request-indexmeta"><strong>Deadline: </strong>{{ request.deadline | date: "%b %-d, %Y" }}</time>
+      <span class="request-indexmeta"><strong>Payment: </strong>{{ request.offer-amount-btc | prepend: 'BTC ' }}</span>
+    </li>
+  </a>
+  {% endunless %}
+{% endfor %}
+</ul>

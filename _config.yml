@@ -1,0 +1,34 @@
+# Welcome to Jekyll!
+
+# Site settings
+title: BitcoinZH
+email: info@bitcoinzh.com
+author: "Damian O'Loan"
+description: China Talks Bitcoin
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http:bitcoinzh.github.io" # the base hostname & protocol for your site
+twitter_username: bitcoinzh
+github_username:  bitcoinzh
+permalink: /:title
+paginate: 5
+paginate_path: /china-talks-bitcoin/:num
+
+# Gems
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# Build settings
+markdown: kramdown
+
+# Collections
+collections:
+  requests:
+    output: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: "requests"
+    values:
+      layout: "default"

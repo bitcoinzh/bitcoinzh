@@ -1,0 +1,43 @@
+<div class="sidebar">
+  <div class="sidebar-about">
+    {% include logo.html %}
+    <h1>
+      <a href="/">
+        {{ site.title }}
+      </a>
+    </h1>
+  </div>
+
+  <nav class="sidebar-nav">
+    <h3><a class="sidebar-nav-item{% if page.url == '/index.html' %} active{% endif %}" href="/">Home</a></h3>
+
+    {% for navlink in site.data.navlinks %}
+      <h3><a class="sidebar-nav-item{% if page.url contains navlink.url %} active{% endif %}" href="{{ navlink.url }}">{{ navlink.title }}</a></h3>
+    {% endfor %}
+  </nav>
+
+  <ul class="social-linklist">
+    {% for link in site.data.social-links %}
+    <li>
+      <h2>
+      <a href="{{ link.url }}" title="{{ link.title | prepend: 'BitcoinZH on ' }}">
+        {{ link.icon }}
+      </a>
+      </h2>
+    </li>
+    {% endfor %}
+  </ul>
+
+  <a href="https://insight.bitpay.com/address/3QLvZUHuWDpq84tXaij2FAcgsm3ZjSccYk" title="BitcoinZH Wallet on Bitpay insight">
+    <img class="qr" src="{{ '/images/bitcoinzh-wallet.png' prepend: site.url }}" alt=Bitcoin Wallet QR Code" />
+  </a>
+
+  <p class="footer-text"><a href="mailto:info@bitcoinzh.com?subject=Re. BitcoinZH" title="Contact BitcoinZH">info@bitcoinzh.com</a></p>
+  <p class="footer-text">
+    <a class="license" href="https://creativecommons.org/licenses/by-nc/3.0/legalcode" title="Creative Commons License">
+      {% include icon-cc.html %}
+      Licensed under Creative Commons, {{ site.time | date: '%Y' }}.
+    </a>
+  </p>
+</div>
+<div class="sidebar-skew"></div>

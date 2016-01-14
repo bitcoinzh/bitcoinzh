@@ -1,0 +1,39 @@
+---
+layout: default
+title: Home
+---
+<h1 class="index-heading">China Talks Bitcoin</h1>
+
+<ul class="post-list">
+{% for post in site.posts | limit: 8 %}
+  <a class="post-link" href="{{ post.url }}">
+    <li>
+      <img src="{{ post.img-path | prepend: site.url }}" alt="{{ post.title }}" />
+      <div class="img-mask"></div>
+      <h2>{{ post.title | truncate: 48 }}</h2>
+      <span class="index-meta">{{ post.date | date: "%x" }}</span>
+    </li>
+  </a>
+{% endfor %}
+</ul>
+
+<a href="/china-talks-bitcoin/index.html" class="button">See Them All</a>
+
+<h1 class="index-heading">Translation Requests</h1>
+<ul class="requests-index">
+{% for request in site.requests | limit: 4 %}
+  {% unless forloop.last == true %}
+  <a class="post-link" href="{{ request.url }}">
+    <div class="request-skew"></div>
+    <li>
+      <h2{% if request.source-language == 'chinese' %} class="chinese-text"{% endif %}>{{ request.title | truncate: 48 }}</h2>
+      <span class="request-indexmeta"><strong>From: </strong>{{ request.request-github-username }}</span>
+      <time class="request-indexmeta"><strong>Deadline: </strong>{{ request.deadline | date: "%b %-d, %Y" }}</time>
+      <span class="request-indexmeta"><strong>Payment: </strong>{{ request.offer-amount-btc | prepend: 'BTC ' }}</span>
+    </li>
+  </a>
+  {% endunless %}
+{% endfor %}
+</ul>
+
+<a href="/requests/index.html" class="button">See Them All</a>

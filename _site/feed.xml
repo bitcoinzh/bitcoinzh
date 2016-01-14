@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BitcoinZH</title>
+    <description>China Talks Bitcoin</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 14 Jan 2016 02:09:06 +0000</pubDate>
+    <lastBuildDate>Thu, 14 Jan 2016 02:09:06 +0000</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Shanghai Blockchain Hackathon</title>
+        <description>&lt;h3 id=&quot;blockchain-techs-profound-impact-on-financial-sector&quot;&gt;Blockchain Tech’s Profound Impact on Financial Sector&lt;/h3&gt;
+&lt;p&gt;Tl;dr: Over twenty geeks from around the world came to take part in the Shanghai Blockchain Hackathon. Although the blockchain is widely perceived to be in an early development phase, within 48 hours a number of practically useful applications were delivered according to plan. Whether in logistics systems or humanitarian medicine, intelligent asset management hardware or video supply chains, even random number generation, the innovative ideas presented an eye-opening experience for everyone in attendance.&lt;/p&gt;
+
+&lt;p&gt;The hackathon, which took place from 1/8/16 to 1/10/16, was a milestone in China. It offered corporations and developers direct experience of the blockchain development flow at a historically opportune moment.&lt;/p&gt;
+
+&lt;p&gt;Deloitte and Wanxiang Blockchain Labs partnered to organize this meeting of blockchain developers and enthusiasts. The participants were divided into small groups for a period of two days, sent to bang their heads together and create blockchain applications. The projects were then presented with a focus on design and development processes.&lt;/p&gt;
+
+&lt;p&gt;Representative’s from Deloitte’s global cryptocurrency team and Wanxiang Blockchain Labs were on hand to offer mentorship to all participants. As each team presented their original applications, they were in with a chance of winning up to a generous $10,000 in prizes.&lt;/p&gt;
+
+&lt;p&gt;From 1/6/16 to 1/11/16, cryptocurrency experts from Deloitte’s Innovation Labs in the US, Canada and Ireland and, along with their colleagues in China, organized a series of blockchain events in Shenzhen, Shanghai and Beijing in the run up to the main event. These included a series of lectures, exclusive blockchain application research and training events. On the afternoon of 8 January,&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/shanghai-blockchain-hackathon</link>
+        <guid isPermaLink="true">http://localhost:4000/shanghai-blockchain-hackathon</guid>
+        
+        
+        <category>china-talks-bitcoin</category>
+        
+      </item>
+    
+      <item>
+        <title>Lan Mao asks, what is a blockchain?</title>
+        <description>&lt;h3 id=&quot;chehw1&quot;&gt;chehw_1:&lt;/h3&gt;
+
+&lt;p&gt;The blockchain was invented by Satoshi Nakamoto.&lt;/p&gt;
+
+&lt;p&gt;[Bitcoin] = [Digital gold] + [PoW blockchain] + [P2P]&lt;/p&gt;
+
+&lt;p&gt;Note: The “digital gold” referred to here is cryptocurrency, not electronic currencies based on a gold standard (E-money).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain.jpg&quot; alt=&quot;Response to What A BlockChain Is by chehw_1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A blockchain is a ledger whose contents cannot easily be tampered with, its entries in a sequence that may not easily be tampered with. The theory and robustness are principally based on the maturity of hash algorithms. Its features include timestamping and a distributed database (for consistent ledger contents) with backups in different locations.&lt;/p&gt;
+
+&lt;p&gt;Previous cryptographically-based currencies replicated properties of money, managing to solve the problems of authenticity and ownership, but were unable to be freely transferred without preventing double spending. After A has given B part of their gold, naturally they can’t use this gold again. But with electronic gold, A could maintain a copy of the original which differed in no way from the spent gold. So cryptocurrencies require a unified database record and the authentication of every transaction, and can thereby prevent any double spend.&lt;/p&gt;
+
+&lt;p&gt;Previous cryptocurrencies depended on the provision of centralized databases by trusted third parties to work. This kind of of currency can’t break away from a dependency on trust, at most at an individual or organizational level. Only a hopeless idealist could believe it could attempt to compete with a national currency. It’s hard to imagine it ever being deployed in the real world.&lt;/p&gt;
+
+&lt;p&gt;But the blockchain, from a technological perspective, does indeed achieve all the database requirements of a cryptocurrency. This is perhaps among the reasons for it becoming the subject of research of a large number of organizations (including banks). Being a distributed database, the blockchain gave rise to another question: among similar competing databases, how can one determine which is the most authoritative, the most ‘true’?&lt;/p&gt;
+
+&lt;p&gt;The blockchain responds to this question by distinguishing between different operational methods: the PoW method belonging to the P2P family, the PoS method, as well the as centralized “private chain” method. The primary differences between these three methods lie in how they regulate who gets to decide what is ‘true’: “private chains” are purely centralized control, PoS operates on the right of the group, and PoW excludes the need for control, propelled forward by market forces, or depending on majority consensus.&lt;/p&gt;
+
+&lt;p&gt;[Bitcoin] = [Digital gold] + [PoW blockchain] + [P2P]. This is the first time trustless digital cash and transactions have ever been realised.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-2.jpg&quot; alt=&quot;Response to What A BlockChain Is by a1379246856&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a1379246856&quot;&gt;a1379246856:&lt;/h3&gt;
+
+&lt;p&gt;I’ll do my best not to go into too much detail and to use the simplest possible language to decribe a little in theory how a blockchain works. I hope this quickly brings some degree of knowledge about the blockchain.&lt;/p&gt;
+
+&lt;p&gt;Taking the Bitcoin blockchain as an example, you can imagine it as a kind of public ledger. This ledger:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Exists within each of the internet’s Bitcoin nodes, with each node having a full backup.&lt;/li&gt;
+  &lt;li&gt;Contains a record of every bitcoin transaction since its conception.&lt;/li&gt;
+  &lt;li&gt;The ledger accounts are kept in separate blocks, each block containing a part of the complete transaction record. Each block also contains the id of the previous block, thereby forming a chain structure which gives rise to the name blockchain.&lt;/li&gt;
+  &lt;li&gt;To create a bitcoin transaction, it’s sufficient to broadcast the transaction details to the P2P network. When the miners’ record of your transaction has become part of a new block on the blockchain, the transaction is complete.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-3.jpg&quot; alt=&quot;Response to What A BlockChain Is by sumubaobei&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;sumubaobei&quot;&gt;sumubaobei:&lt;/h3&gt;
+&lt;p&gt;What are you, wikipedia?!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-4.jpg&quot; alt=&quot;Response to What A BlockChain Is by 芭比馒头&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;barbies-steamed-buns&quot;&gt;芭比馒头 (Barbie’s steamed buns):&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;I’ll do my best not to go into too much detail and to use the simplest possible language to decribe a little in theory how a blockchain works. I hope this quickly brings some degree of knowledge about the blockchain.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Sorted, OP owes you 20 bucks.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-5.jpg&quot; alt=&quot;Response to What A BlockChain Is by bitbybit&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;bitbybit&quot;&gt;bitbybit:&lt;/h3&gt;
+&lt;p&gt;chehw_1’s explanation was the most well-defined, you could put it in a textbook.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-6.jpg&quot; alt=&quot;Response to What A BlockChain Is by sider&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;sider&quot;&gt;sider:&lt;/h3&gt;
+&lt;p&gt;I don’t know, don’t ask such hard questions&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-7.jpg&quot; alt=&quot;Response to What A BlockChain Is by Xseraph2&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;xseraph2&quot;&gt;Xseraph2:&lt;/h3&gt;
+&lt;p&gt;I bow in admiration before chehw_1, every word is original, not one copied and pasted.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-8.jpg&quot; alt=&quot;Response to What A BlockChain Is by idgui.com&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;idguicom&quot;&gt;idgui.com:&lt;/h3&gt;
+&lt;p&gt;A few of the comments above are pretty thorough, so I’ll just give an easy-to-understand introduction:&lt;/p&gt;
+
+&lt;p&gt;A blockchain is just a chain where every block contains the entire chain’s full sequential order.&lt;/p&gt;
+
+&lt;p&gt;A few of these words are problematic though: what’s a block, how do you form a chain, what’s so special about this chain anyway, what’s the point of it?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Block
+This can be understood as a block of data, most of these blocks contain electronic currency data like bitcoin transactions, which address sent how much to which other address.&lt;/li&gt;
+  &lt;li&gt;How do blocks for a chain?
+This is a little like pointers in the C language. Each block is passes through a hash algorithm, with the resulting value recorded in a block. Each hash must be written into the next block, and that block’s hash into the next, and so on. In this way, a long sequential chain of string data begins to form, namely the blockchain.&lt;/li&gt;
+  &lt;li&gt;What’s so special about the blockchain?
+Bitcoin’s blockchain is decentralized. It can’t be controlled or altered by anyone. This immutability and complete transparency are the defining elements of the blockchain. There are a few knockoff coins which, due to limited CPU or highly-concentrated wealth, are vulnerable to data corruption. For these reasons, only the Bitcoin blockchain is truly valuable.&lt;/li&gt;
+  &lt;li&gt;Blockchain technology
+Blockchain applications record data on the blockchain as a proof of its existence. Because of the blockchain’s mass consensus system, it can be used to issue proofs of stock and equity. There are too many blockchain applications already, you couldn’t name them all in a lifetime, but all this blockchain technology aims at decentralization and immutability. And for the moment, the only one which can achieve this is bitcoin. In a way therefore, you can consider all blockchains to be based on the Bitcoin blockchain technology.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-9.jpg&quot; alt=&quot;Response to What A BlockChain Is by 510685947&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;510685947:&lt;/h3&gt;
+&lt;p&gt;Put simply it’s just a ledger. Whatever good and bad things you’ve done, like what you came to chat about today, did you have breakfast today, have you jerked off today, every incident is recorded. POW doesn’t have so much CPU it can’t be modified, POS doesn’t have so much coin it can’t be modified, it’s as simple as that.&lt;/p&gt;
+
+&lt;p&gt;Note: 510685947’s signature says “Thanks Satoshi, for bringing us together. Thanks 8btc, for letting us meet our bros from every corner of the world.”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-10.jpg&quot; alt=&quot;Response to What A BlockChain Is by zln0927&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;zln0927&quot;&gt;zln0927:&lt;/h3&gt;
+&lt;p&gt;Bitcoin is a token of value built on blockchain value. Other cryptocurrencies are also built on blockchains, although at the moment Bitcoin’s is the best.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/what-is-a-blockchain</link>
+        <guid isPermaLink="true">http://localhost:4000/what-is-a-blockchain</guid>
+        
+        
+        <category>china-talks-bitcoin</category>
+        
+      </item>
+    
+  </channel>
+</rss>

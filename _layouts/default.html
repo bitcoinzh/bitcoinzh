@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body>
+    <input type="checkbox" id="sidebar-toggle"{% if page.url == '/index.html' %} checked{% endif %}>
+
+    <div class="page-wrapper">
+      <label class="toggle" for="sidebar-toggle">☰</label>
+
+      <div class="page-content">
+        {{ content }}
+
+        <p class="update-time">{{ site.title }} was last updated at {{ site.time | date: '%T' }} on {{ site.time | date: '%b %-d, %Y' }}</p>
+      </div>
+
+      {% include sidebar.html %}
+    </div>
+    <div class="social-shares">
+
+    </div>
+  </body>
+</html>

@@ -1,0 +1,25 @@
+<!-- Start workflow snippet -->
+<section class="workflow">
+  <p class="chinese-text">BitcoinZH翻译工作流非常简单。我们的我们的合作方式是Github，付款方式就是比特币。这个概念适应<a href="https://hackercouch.com/add" title="Hackercouch Gitflow" target="_blank">Hackercouch</a>的工作流而为了提供一个开放与透明的付款方式更加比特币。</p>
+
+  <p class="chinese-text">任何人都可以提交翻译需求，任何人都可以提交翻译而收到费用。</p>
+
+  {% include workflow-core-zh.html %}
+
+  <p class="chinese-text">全流程都是开放和透明的，因此双方可以创建稳定和亲信的关系。</p>
+
+  {% for bu in site.data.workflow-bus %}
+  <!-- Start workflow step -->
+  <div class="workflow-item chinese-text">
+    {{ bu.number }}
+    <h2>{{ bu.title }}</h2>
+    <img src="{{ bu.img-path | prepend: '/images/workflow/' }}" title="{{ step.title | append: ' Illustration' }}">
+    <p>{{ bu.description }}</p>
+  </div><!-- End workflow step -->
+  {% unless forloop.last == true %}
+    <div class="workflow-connector">&nbsp;</div>
+  {% endunless %}
+  {% endfor %}
+
+  <a href="https://github.com/bitcoinzh/bitcoinzh.github.io" class="button chinese-text" title="BitcoinZH on Github">访问BitcoinZH在Github上</a>
+</section><!-- End workflow snippet -->
