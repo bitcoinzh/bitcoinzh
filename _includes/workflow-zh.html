@@ -1,6 +1,6 @@
 <!-- Start workflow snippet -->
 <section class="workflow">
-  <p class="chinese-text">BitcoinZH翻译工作流非常简单。我们的我们的合作方式是Github，付款方式就是比特币。这个概念适应<a href="https://hackercouch.com/add" title="Hackercouch Gitflow" target="_blank">Hackercouch</a>的工作流而为了提供一个开放与透明的付款方式更加比特币。</p>
+  <p class="chinese-text">BitcoinZH翻译工作流非常简单。我们的合作方式是Github和付款方式就是比特币。这个概念适应<a href="https://hackercouch.com/add" title="Hackercouch Gitflow" target="_blank">Hackercouch</a>的工作流而为了提供一个开放与透明的付款方式更加比特币。</p>
 
   <p class="chinese-text">任何人都可以提交翻译需求，任何人都可以提交翻译而收到费用。</p>
 
@@ -13,7 +13,7 @@
   <div class="workflow-item chinese-text">
     {{ bu.number }}
     <h2>{{ bu.title }}</h2>
-    <img src="{{ bu.img-path | prepend: '/images/workflow/' }}" title="{{ step.title | append: ' Illustration' }}">
+    {% if bu.img-path %}<img src="{{ bu.img-path | prepend: '/images/workflow/' }}" title="{{ step.title | append: ' Illustration' }}">{% endif %}
     <p>{{ bu.description }}</p>
   </div><!-- End workflow step -->
   {% unless forloop.last == true %}
