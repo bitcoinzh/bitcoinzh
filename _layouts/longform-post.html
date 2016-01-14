@@ -14,7 +14,8 @@ layout: default
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
-    <p class="source"></p>
+
+    {% include social-shares.html %}
     <a href="mailto:info@bitcoinzh.com?subject=BitcoinZH Translation Error {{ page.url | prepend: site.url }}"><p class="mistranslation-cta">See something inaccurate? Let us know.</p></a>
   </div>
 
