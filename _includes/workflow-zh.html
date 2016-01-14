@@ -13,7 +13,7 @@
   <div class="workflow-item chinese-text">
     {{ bu.number }}
     <h2>{{ bu.title }}</h2>
-    {% if bu.img-path %}<img src="{{ bu.img-path | prepend: '/images/workflow/' }}" title="{{ step.title | append: ' Illustration' }}">{% endif %}
+    {% if bu.img-path %}<img src="{{ bu.img-path }}" title="{{ step.title | append: ' Illustration' }}">{% endif %}
     <p>{{ bu.description }}</p>
   </div><!-- End workflow step -->
   {% unless forloop.last == true %}
@@ -21,5 +21,5 @@
   {% endunless %}
   {% endfor %}
 
-  <a href="https://github.com/bitcoinzh/bitcoinzh.github.io" class="button chinese-text" title="BitcoinZH on Github">访问BitcoinZH在Github上</a>
+  <a href="https://github.com/bitcoinzh" class="button chinese-text" title="BitcoinZH on Github">访问BitcoinZH在Github上</a>
 </section><!-- End workflow snippet -->

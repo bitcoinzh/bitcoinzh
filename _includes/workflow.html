@@ -14,7 +14,7 @@
   <div class="workflow-item">
     {{ step.number }}
     <h2>{{ step.title }}</h2>
-    {% if step.img-path %}<img src="{{ step.img-path | prepend: '/images/workflow/' }}" title="{{ step.title | append: ' Illustration' }}">{% endif %}
+    {% if step.img-path %}<img src="{{ step.img-path }}" title="{{ step.title | append: ' Illustration' }}">{% endif %}
     <p>{{ step.description }}</p>
   </div><!-- End workflow step -->
   {% unless forloop.last == true %}
@@ -22,5 +22,5 @@
   {% endunless %}
   {% endfor %}
 
-  <a href="https://github.com/bitcoinzh/bitcoinzh.github.io" class="button" title="BitcoinZH on Github">See BitcoinZH on Github</a>
+  <a href="https://github.com/bitcoinzh" class="button" title="BitcoinZH on Github">See BitcoinZH on Github</a>
 </section><!-- End workflow snippet -->
