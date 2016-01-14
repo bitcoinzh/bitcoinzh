@@ -3,10 +3,10 @@
   <channel>
     <title>BitcoinZH</title>
     <description>China Talks Bitcoin</description>
-    <link>http://127.0.0.1:4000/</link>
-    <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Jan 2016 19:51:03 +0000</pubDate>
-    <lastBuildDate>Thu, 14 Jan 2016 19:51:03 +0000</lastBuildDate>
+    <link>https://bitcoinzh.com/</link>
+    <atom:link href="https://bitcoinzh.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 14 Jan 2016 20:06:09 +0000</pubDate>
+    <lastBuildDate>Thu, 14 Jan 2016 20:06:09 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -45,8 +45,8 @@
 &lt;p&gt;As Deloitte’s China Eastern Regional Managing Partner, Mr Patrick Tsang, points out, this hackathon is just a starting point. All kinds of ideas based on disruptive blockchain technology are provoking keen interest, and in the foreseeable future will have a profound influence on a large number of industries within the financial sector, creating opportunities for cooperation across different areas of expertise, increasing efficiencies in resource deployment and assisting in corporate transformations. Whether by enthusiastic adoption or passive acceptance, it will upset the status quo in all kinds of industries.&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
-        <link>http://127.0.0.1:4000/shanghai-blockchain-hackathon</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/shanghai-blockchain-hackathon</guid>
+        <link>https://bitcoinzh.com/shanghai-blockchain-hackathon</link>
+        <guid isPermaLink="true">https://bitcoinzh.com/shanghai-blockchain-hackathon</guid>
         
         
         <category>china-talks-bitcoin</category>
@@ -63,7 +63,7 @@
 
 &lt;p&gt;Note: The “digital gold” referred to here is cryptocurrency, not electronic currencies based on a gold standard (E-money).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain.jpg&quot; alt=&quot;Response to What A BlockChain Is by chehw_1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain.jpg&quot; alt=&quot;Response to What A BlockChain Is by chehw_1&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A blockchain is a ledger whose contents cannot easily be tampered with, its entries in a sequence that may not easily be tampered with. The theory and robustness are principally based on the maturity of hash algorithms. Its features include timestamping and a distributed database (for consistent ledger contents) with backups in different locations.&lt;/p&gt;
 
@@ -77,7 +77,7 @@
 
 &lt;p&gt;[Bitcoin] = [Digital gold] + [PoW blockchain] + [P2P]. This is the first time trustless digital cash and transactions have ever been realised.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-2.jpg&quot; alt=&quot;Response to What A BlockChain Is by a1379246856&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-2.jpg&quot; alt=&quot;Response to What A BlockChain Is by a1379246856&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;a1379246856&quot;&gt;a1379246856:&lt;/h3&gt;
 
@@ -92,12 +92,12 @@
   &lt;li&gt;To create a bitcoin transaction, it’s sufficient to broadcast the transaction details to the P2P network. When the miners’ record of your transaction has become part of a new block on the blockchain, the transaction is complete.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-3.jpg&quot; alt=&quot;Response to What A BlockChain Is by sumubaobei&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-3.jpg&quot; alt=&quot;Response to What A BlockChain Is by sumubaobei&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;sumubaobei&quot;&gt;sumubaobei:&lt;/h3&gt;
 &lt;p&gt;What are you, wikipedia?!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-4.jpg&quot; alt=&quot;Response to What A BlockChain Is by 芭比馒头&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-4.jpg&quot; alt=&quot;Response to What A BlockChain Is by 芭比馒头&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;barbies-steamed-buns&quot;&gt;芭比馒头 (Barbie’s steamed buns):&lt;/h3&gt;
 &lt;blockquote&gt;
@@ -106,22 +106,22 @@
 
 &lt;p&gt;Sorted, OP owes you 20 bucks.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-5.jpg&quot; alt=&quot;Response to What A BlockChain Is by bitbybit&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-5.jpg&quot; alt=&quot;Response to What A BlockChain Is by bitbybit&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;bitbybit&quot;&gt;bitbybit:&lt;/h3&gt;
 &lt;p&gt;chehw_1’s explanation was the most well-defined, you could put it in a textbook.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-6.jpg&quot; alt=&quot;Response to What A BlockChain Is by sider&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-6.jpg&quot; alt=&quot;Response to What A BlockChain Is by sider&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;sider&quot;&gt;sider:&lt;/h3&gt;
 &lt;p&gt;I don’t know, don’t ask such hard questions&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-7.jpg&quot; alt=&quot;Response to What A BlockChain Is by Xseraph2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-7.jpg&quot; alt=&quot;Response to What A BlockChain Is by Xseraph2&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;xseraph2&quot;&gt;Xseraph2:&lt;/h3&gt;
 &lt;p&gt;I bow in admiration before chehw_1, every word is original, not one copied and pasted.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-8.jpg&quot; alt=&quot;Response to What A BlockChain Is by idgui.com&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-8.jpg&quot; alt=&quot;Response to What A BlockChain Is by idgui.com&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;idguicom&quot;&gt;idgui.com:&lt;/h3&gt;
 &lt;p&gt;A few of the comments above are pretty thorough, so I’ll just give an easy-to-understand introduction:&lt;/p&gt;
@@ -141,21 +141,21 @@ Bitcoin’s blockchain is decentralized. It can’t be controlled or altered by 
 Blockchain applications record data on the blockchain as a proof of its existence. Because of the blockchain’s mass consensus system, it can be used to issue proofs of stock and equity. There are too many blockchain applications already, you couldn’t name them all in a lifetime, but all this blockchain technology aims at decentralization and immutability. And for the moment, the only one which can achieve this is bitcoin. In a way therefore, you can consider all blockchains to be based on the Bitcoin blockchain technology.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-9.jpg&quot; alt=&quot;Response to What A BlockChain Is by 510685947&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-9.jpg&quot; alt=&quot;Response to What A BlockChain Is by 510685947&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;section&quot;&gt;510685947:&lt;/h3&gt;
 &lt;p&gt;Put simply it’s just a ledger. Whatever good and bad things you’ve done, like what you came to chat about today, did you have breakfast today, have you jerked off today, every incident is recorded. POW doesn’t have so much CPU it can’t be modified, POS doesn’t have so much coin it can’t be modified, it’s as simple as that.&lt;/p&gt;
 
 &lt;p&gt;Note: 510685947’s signature says “Thanks Satoshi, for bringing us together. Thanks 8btc, for letting us meet our bros from every corner of the world.”&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-10.jpg&quot; alt=&quot;Response to What A BlockChain Is by zln0927&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-10.jpg&quot; alt=&quot;Response to What A BlockChain Is by zln0927&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;zln0927&quot;&gt;zln0927:&lt;/h3&gt;
 &lt;p&gt;Bitcoin is a token of value built on blockchain value. Other cryptocurrencies are also built on blockchains, although at the moment Bitcoin’s is the best.&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Jan 2016 00:00:00 +0000</pubDate>
-        <link>http://127.0.0.1:4000/what-is-a-blockchain</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/what-is-a-blockchain</guid>
+        <link>https://bitcoinzh.com/what-is-a-blockchain</link>
+        <guid isPermaLink="true">https://bitcoinzh.com/what-is-a-blockchain</guid>
         
         
         <category>china-talks-bitcoin</category>

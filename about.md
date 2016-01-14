@@ -14,7 +14,7 @@ If you have a Bitcoin-related text you'd like translated into Chinese or English
 
 {% include workflow-core.html %}
 
-BitcoinZH.com is an open-source static site made with Jekyll. There are no advertisements and no cookies.
+BitcoinZH.com is an open-source static site made with Jekyll. There are no advertisements and just one cookie.
 
 If you'd like to contribute, [get in touch][BitcoinZH Email].
 
