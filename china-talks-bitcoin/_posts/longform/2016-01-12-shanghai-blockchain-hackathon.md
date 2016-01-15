@@ -15,7 +15,7 @@ The hackathon, which took place from 1/8/16 to 1/10/16, was a milestone in China
 
 Deloitte and Wanxiang Blockchain Labs partnered to organize this meeting of blockchain developers and enthusiasts. The participants were divided into small groups for a period of two days, sent to bang their heads together and create blockchain applications. The projects were then presented with a focus on design and development processes.
 
-Representative's from Deloittes global cryptocurrency team and Wanxiang Blockchain Labs were on hand to offer mentorship to all participants. As each team presented their original applications, they were in with a chance of winning up to a generous $10,000 in prizes.
+Representatives from Deloittes global cryptocurrency team and Wanxiang Blockchain Labs were on hand to offer mentorship to all participants. As each team presented their original applications, they were in with a chance of winning up to a generous $10,000 in prizes.
 
 From 1/6/16 to 1/11/16, cryptocurrency experts from Deloitte's Innovation Labs in the US, Canada and Ireland and, along with their colleagues in China, organized a series of blockchain events in Shenzhen, Shanghai and Beijing in the run up to the main event. These included a series of lectures, exclusive blockchain application research and training events. On the afternoon of 8 January, in an exclusive meeting led by Ms Qin Yi，Blockchain Project Manager at Deloitte Innovation Labs, Deloitte's Chief Economist and Senior Cloud Engineers were at hand for a comprehensive presentation of blockchain workflows present and future.
 
