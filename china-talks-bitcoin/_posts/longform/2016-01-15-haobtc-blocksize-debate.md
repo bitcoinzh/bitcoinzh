@@ -14,7 +14,7 @@ keyword: 算历 Suan Li | Computer Processing Power
 
 1. The Bitcoin blockchain is PoW. There is only one. 51% of the network decide on the direction the blockchain will travel in.
 2. Each and everyone can hold network hashing power. Let those who believe in, and support Bitcoin, hold hashing power on the Bitcoin network. The possession of hashing power is a statement on the future of Bitcoin.
-3. The reason China has over 50% of the network is that has a very optimistic view regarding the future of Bitcoin. We've invested a great deal of manpower, material assets, all kinds of resources, bringing the current total to over 50%. It's absolutely not about control.
+3. The reason China has over 50% of the network is that it has a very optimistic view regarding the future of Bitcoin. We've invested a great deal of manpower, material assets, all kinds of resources, bringing the current total to over 50%. It's absolutely not about control.
 4. Overseas Bitcoin supporters can equally strive to gain more network power and then possess that 50%, we'd be happy to see it. The PoW blockchain is the most equitable. All we have now is the result of our conviction and belief in Bitcoin.
 5. China mining pools having in total hold over 50% of the network power does not in any way mean the entire amount is held in the hands of a single bloc. Within this multilateral and distributed holding, each voice represents different interests and demands.
 6. We are fully behind an expansion in block size, and would most like to see this achieved on the Bitcoin Core. Bitcoin Classic is also supported, it currently holds the largest degree of consensus of any proposal. If it's a reasonable proposal that drives forward block expansion in a reliable manner, we can all support it.
