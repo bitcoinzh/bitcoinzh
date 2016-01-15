@@ -5,7 +5,7 @@ description: Haobtc outlines its stance on the competing strategies regarding bl
 translator: "Damian O'Loan"
 source_url: https://bikeji.com/t/3114#reply10
 source_site: bikeji.com
-img-path: /images/translations/haobtc-block-size-debate/2016-01-15-haobtc-blocksize-debate.jpg
+img-path: /images/translations/haobtc-block-size-debate/2016-01-15-haobtc-block-size-debate.jpg
 keyword: 算历 Suan Li | Computer Processing Power
 ---
 ###Haobtc is striving for more network power, supports Bitcoin, supports blocksize expansion
