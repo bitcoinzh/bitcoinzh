@@ -9,7 +9,7 @@
 
                  <li>把您的Pull Request提交到bitcoinzh.</li>
                </ul>
-  img-path: request-file-zh.jpg
+  img-path: /images/request-page/request-file-zh.jpg
   number: !xml |
           <?xml version="1.0" encoding="UTF-8" standalone="no"?>
           <svg viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
@@ -36,7 +36,7 @@
 
                  <li>您可以使用@bitcoinzh在您选择的社会媒体上，为了公布您打算做完这一个项目。</li>
                </ul>
-  img-path: translation-file-zh.jpg
+  img-path: /images/request-page/translation-file-zh.jpg
   number: !xml |
           <?xml version="1.0" encoding="UTF-8" standalone="no"?>
           <svg viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
@@ -61,7 +61,7 @@
 
                  <li>需求方可以把文件状态更新换closed。</li>
                </ul>
-  img-path: payment.jpg
+  img-path: /images/request-page/transaction-success.jpg
   number: !xml |
           <?xml version="1.0" encoding="UTF-8" standalone="no"?>
           <svg viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
