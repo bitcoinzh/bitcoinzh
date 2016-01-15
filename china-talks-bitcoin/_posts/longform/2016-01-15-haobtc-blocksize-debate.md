@@ -1,6 +1,6 @@
 ---
 layout: longform-post
-title: "Haobtc on the blockchain debate"
+title: "Haobtc on the block size debate"
 description: Haobtc outlines its stance on the competing strategies regarding blocksize expansion.
 translator: "Damian O'Loan"
 source_url: https://bikeji.com/t/3114#reply10
