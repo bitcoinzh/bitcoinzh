@@ -1,6 +1,6 @@
 ---
 layout: longform-post
-title: "Is Hearn becoming an international embarrassment to legacy banking?"
+title: "Hearn: a global embarrassment to banking"
 description: A mainstream tech site shows coverage of the latest Mike Hearn incident also goes beyond Bitcoin media in China
 translator: "Damian O'Loan"
 source_url: http://www.tmtpost.com/1498882.html
