@@ -13,6 +13,7 @@ layout: default
   </header>
 
   <div class="post-content" itemprop="articleBody">
+    <p class="longform-intro">{{ page.description | prepend: 'BitcoinZH Introduction: ' }}</p>
     {{ content }}
 
     {% include social-shares.html %}
