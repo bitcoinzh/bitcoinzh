@@ -25,7 +25,7 @@ Let's firstly clear up the issue of just who Mike Hearn is. In fact, he is not a
 
 ![Bitcoin's core developers, January 2016]({{ '/images/translations/death-of-bitcoin-conspiracy/2016-01-17-death-of-bitcoin-conspiracy-2.jpg' | prepend: site.url }})
 
-A computer programmer, Mike wrote a Java [sic] library called Bitcoinj. He develops third-party tools for bitcoin, and essentially is not an agreed Bitcoin developer. In the six or so years since he entered Bitcoin development, he has submitted 3 bugs related to Bitcoin code, ranking him #98 among all Bitcoin contributors.
+A computer programmer, Mike wrote a Java library called Bitcoinj. He develops third-party tools for bitcoin, and essentially is not an agreed Bitcoin developer. In the six or so years since he entered Bitcoin development, he has submitted 3 bugs related to Bitcoin code, ranking him #98 among all Bitcoin contributors.
 
 Through the following three views expressed by Mike, we can identify the role he plays within the Bitcoin community:
 
