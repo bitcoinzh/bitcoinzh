@@ -3,16 +3,121 @@
   <channel>
     <title>BitcoinZH</title>
     <description>China Talks Bitcoin</description>
-    <link>127.0.0.1:4000/</link>
-    <atom:link href="127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Jan 2016 19:30:49 +0000</pubDate>
-    <lastBuildDate>Sun, 17 Jan 2016 19:30:49 +0000</lastBuildDate>
+    <link>https://bitcoinzh.com/</link>
+    <atom:link href="https://bitcoinzh.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 18 Jan 2016 19:40:01 +0000</pubDate>
+    <lastBuildDate>Mon, 18 Jan 2016 19:40:01 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Chinese concerns around Bitcoin decentralization</title>
+        <description>&lt;h3 id=&quot;core-developer-announces-bitcoins-failure-and-sells-bitcoin-now-bitcoin-is-controlled-by-china-how-do-you-see-it&quot;&gt;“Core developer announces Bitcoin’s failure and sells bitcoin. Now Bitcoin is controlled by China.” How do you see it?&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/chinese-views-on-bitcoin-decentralization/2016-01-18-chinese-views-on-bitcoin-decentralization.jpg&quot; alt=&quot;Chinese concerns around Bitcoin decentralization&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;By Ayu, formerly of BTCC and BTC38&lt;/p&gt;
+
+&lt;p&gt;The reason Mike Hearn made such a statement is likely due to BTC XT, which he worked on.&lt;/p&gt;
+
+&lt;p&gt;The XT project was originally to address the block size limit, which is increasingly a limiting factor as the transaction volume increases. This is the reason core developers demanded to raise the limit from 1MB to 8MB. Coincidentally, such a raise would also raise costs for miners, ergo the objection from the mining pools. It just so happened that many of the pools and miners are in China.&lt;/p&gt;
+
+&lt;p&gt;There are competing proposals concerning block size expansion. Aside from XT’s 8MB, there is one for 20MB; Bobby Lee, CEO at BTCC, proposed it be raised first to 2MB and then to 4MB; some members of the community argued that the block size should be adjusted dynamically.&lt;/p&gt;
+
+&lt;p&gt;It is hard to determine whether or not XT’s 8MB is the most reasonable of all proposals, but it gained extra authority from the fact that its developers were some of the most senior in the community. This authority, however, was at odds with what BTC supposedly stands for - decentralization. As the major mining pools refused to adopt it, the project flopped.&lt;/p&gt;
+
+&lt;p&gt;I remember in 2012, Bitcoin experienced a similar crisis. At that time, the Bitcoin Foundation still had enough authority to influence the community. It responded promptly and released a new version, which won the support of the majority of pools. As a result, the problem was solved in the end.&lt;/p&gt;
+
+&lt;p&gt;Commenting on this incident, the Foundation claimed that mining pools act as an intermediary between miners and users, alleviating the shortcomings in decentralization, holding the system together and improving its efficiency. When I saw this comment, I was a bit surprised. Isn’t Bitcoin supposed to be decentralized? If so, why should a small number of players be allowed to call the shots?&lt;/p&gt;
+
+&lt;p&gt;We have moved on since then. The small-scale, home miners have been replaced by those who traveled far and wide in the pursuit of cheaper electricity and cheaper rent. As a result, the decentralized nature of Bitcoin diminished. The entire community, divided in the face of crisis, split while haggling over utility and cost. When geeks confront businessmen, the current situation may be inevitable.&lt;/p&gt;
+
+&lt;p&gt;I agree with Mike Hearn on at least one thing, which is that Bitcoin is an experiment. The value of this experiment is that the technology is decentralized (at least it was at the beginning). In the past, we took it for granted that decentralization meant inefficiency. Today, this doctrine is challenged by technological advances. When Satoshi Nakamoto created Bitcoin, many called it anarchism. It’s clear that by now that anarchy has descended into a system of representation - so much for social evolution.&lt;/p&gt;
+
+&lt;h3 id=&quot;ppip&quot;&gt;ppip:&lt;/h3&gt;
+
+&lt;p&gt;Oh I remember now. That did happen.&lt;/p&gt;
+
+&lt;h3 id=&quot;cao-lianzhi&quot;&gt;Cao Lianzhi:&lt;/h3&gt;
+
+&lt;p&gt;It really is a bit similar to representative system&lt;/p&gt;
+
+&lt;h3 id=&quot;anonymous-user&quot;&gt;Anonymous user:&lt;/h3&gt;
+
+&lt;p&gt;Concentrated democracy&lt;/p&gt;
+
+&lt;h3 id=&quot;wild-wind-boy&quot;&gt;Wild Wind Boy:&lt;/h3&gt;
+
+&lt;p&gt;The decline of decentralization…&lt;/p&gt;
+
+&lt;h3 id=&quot;xin-song&quot;&gt;Xin Song:&lt;/h3&gt;
+
+&lt;p&gt;People need to be led after all&lt;/p&gt;
+
+&lt;h3 id=&quot;zi-ming&quot;&gt;Zi Ming:&lt;/h3&gt;
+
+&lt;p&gt;The advantages will add up over time. This is the inevitable consequence of social development&lt;/p&gt;
+
+&lt;h3 id=&quot;wei-zhenghao&quot;&gt;Wei Zhenghao:&lt;/h3&gt;
+
+&lt;p&gt;Very good analogy&lt;/p&gt;
+
+&lt;h3 id=&quot;lin-weixun&quot;&gt;Lin Weixun:&lt;/h3&gt;
+
+&lt;p&gt;This evolution of Bitcoin is a good social experiment. The reality proves that anarchism can only exist on a limited scale. It is very difficult for it to survive in a completely open environment.&lt;/p&gt;
+
+&lt;h3 id=&quot;wang-siyu&quot;&gt;Wang Siyu:&lt;/h3&gt;
+
+&lt;p&gt;Sigh&lt;/p&gt;
+
+&lt;h3 id=&quot;anonymous-user-1&quot;&gt;Anonymous user:&lt;/h3&gt;
+
+&lt;p&gt;Bitcoin is a perfect social experiment&lt;/p&gt;
+
+&lt;h3 id=&quot;yang&quot;&gt;Yang:&lt;/h3&gt;
+
+&lt;p&gt;Very interesting&lt;/p&gt;
+
+&lt;h3 id=&quot;lagesi&quot;&gt;Lagesi:&lt;/h3&gt;
+
+&lt;p&gt;Damn, I can’t understand what he’s saying at all&lt;/p&gt;
+
+&lt;h3 id=&quot;pengyiwang&quot;&gt;PENGYIWANG:&lt;/h3&gt;
+
+&lt;p&gt;This developer is not a core developer and he’s only committed three fixes, which ranks him #89.&lt;/p&gt;
+
+&lt;h3 id=&quot;pengyiwang-1&quot;&gt;PENGYIWANG:&lt;/h3&gt;
+
+&lt;p&gt;Bitcoin has been pronounced dead 89 times since its birth&lt;/p&gt;
+
+&lt;h3 id=&quot;bashan-yiye-chuyu-jiao&quot;&gt;Bashan Yiye Chuyu Jiao:&lt;/h3&gt;
+
+&lt;p&gt;What a pile of bullshit. I still can’t see how it’s different to a pyramid scheme. For computers it’s constant processing, for mankind it’s gambling. It is a game. A game of money.&lt;/p&gt;
+
+&lt;h3 id=&quot;lv-xiliang&quot;&gt;Lv Xiliang:&lt;/h3&gt;
+
+&lt;p&gt;The Way of Heaven is to give the excesses to those who lack; the Way of Man is the opposite.&lt;/p&gt;
+
+&lt;h3 id=&quot;jiang-will&quot;&gt;jiang will:&lt;/h3&gt;
+
+&lt;p&gt;Cloud computing is the future of the internet. Bitcoin mining may evolve into globally unified cloud computing. The entire world would be one huge mine with one giant miner based on a script. This will solve the centralization problem.&lt;/p&gt;
+
+&lt;h3 id=&quot;kuangnanfeng-in-response-to-jiang-will&quot;&gt;Kuangnanfeng (in response to jiang will):&lt;/h3&gt;
+
+&lt;p&gt;This is complete centralization. The only mine would be the central bank of Bitcoin, responsible for verification, documentation and distribution of bitcoin.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
+        <link>https://bitcoinzh.com/Chinese-views-on-Bitcoin-decentralization</link>
+        <guid isPermaLink="true">https://bitcoinzh.com/Chinese-views-on-Bitcoin-decentralization</guid>
+        
+        
+        <category>china-talks-bitcoin</category>
+        
+      </item>
     
       <item>
         <title>Hearn: a global embarrassment to banking</title>
         <description>&lt;h3 id=&quot;the-death-of-bitcoin-is-a-legacy-banking-conspiracy-theory&quot;&gt;The “death of Bitcoin” is a legacy banking conspiracy theory&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;127.0.0.1:4000/images/translations/death-of-bitcoin-conspiracy/2016-01-17-death-of-bitcoin-conspiracy.jpg&quot; alt=&quot;Tmtpost on Mike Hearn&#39;s death of Bitcoin announcement&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/death-of-bitcoin-conspiracy/2016-01-17-death-of-bitcoin-conspiracy.jpg&quot; alt=&quot;Tmtpost on Mike Hearn&#39;s death of Bitcoin announcement&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;New York, 1/15 Beijing Time, the Federal Reserve organized a meeting under the theme “Beyond Bitcoin.” One half of those attending were representatives of the Federal Reserve, the other half representatives of major banks and the blockchain tech company supported by those major banks, R3CEV. During the meeting, the R3CEV spokesperson expressed his views:&lt;/p&gt;
 
@@ -28,7 +133,7 @@
 
 &lt;p&gt;Let’s firstly clear up the issue of just who Mike Hearn is. In fact, he is not an agreed Bitcoin Core developer. Based on https://bitcoin.org/zh_CN/development, there are six Bitcoin Core developers, absolutely not including Mike Hearn.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;127.0.0.1:4000/images/translations/death-of-bitcoin-conspiracy/2016-01-17-death-of-bitcoin-conspiracy-2.jpg&quot; alt=&quot;Bitcoin&#39;s core developers, January 2016&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/death-of-bitcoin-conspiracy/2016-01-17-death-of-bitcoin-conspiracy-2.jpg&quot; alt=&quot;Bitcoin&#39;s core developers, January 2016&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A computer programmer, Mike wrote a Java library called Bitcoinj. He develops third-party tools for bitcoin, and essentially is not an agreed Bitcoin developer. In the six or so years since he entered Bitcoin development, he has submitted 3 bugs related to Bitcoin code, ranking him #98 among all Bitcoin contributors.&lt;/p&gt;
 
@@ -71,8 +176,8 @@
 &lt;p&gt;&lt;strong&gt;This is the 89th attempt to proclaim the death of Bitcoin on record. The reasons cited include technological factors, political control, personal disputes, media disputes. Bitcoin has never suffered as a result.&lt;/strong&gt; On the contrary, it’s growth is increasingly powerful. This time will be no exception. Any structure which plots to control Bitcoin can only fail.&lt;/p&gt;
 </description>
         <pubDate>Sun, 17 Jan 2016 00:00:00 +0000</pubDate>
-        <link>127.0.0.1:4000/death-of-bitcoin-legacy-banking-conspiracy</link>
-        <guid isPermaLink="true">127.0.0.1:4000/death-of-bitcoin-legacy-banking-conspiracy</guid>
+        <link>https://bitcoinzh.com/death-of-bitcoin-legacy-banking-conspiracy</link>
+        <guid isPermaLink="true">https://bitcoinzh.com/death-of-bitcoin-legacy-banking-conspiracy</guid>
         
         
         <category>china-talks-bitcoin</category>
@@ -83,7 +188,7 @@
         <title>Haobtc on the block size debate</title>
         <description>&lt;h3 id=&quot;haobtc-is-striving-for-more-network-power-supports-bitcoin-supports-blocksize-expansion&quot;&gt;Haobtc is striving for more network power, supports Bitcoin, supports blocksize expansion&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;127.0.0.1:4000/images/translations/haobtc-block-size-debate/2016-01-15-haobtc-block-size-debate.jpg&quot; alt=&quot;Haobtc on the block size debate&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/haobtc-block-size-debate/2016-01-15-haobtc-block-size-debate.jpg&quot; alt=&quot;Haobtc on the block size debate&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;The Bitcoin blockchain is PoW. There is only one. 51% of the network decide on the direction the blockchain will travel in.&lt;/li&gt;
@@ -94,7 +199,7 @@
   &lt;li&gt;We are fully behind an expansion in block size, and would most like to see this achieved on the Bitcoin Core. Bitcoin Classic is also supported, it currently holds the largest degree of consensus of any proposal. If it’s a reasonable proposal that drives forward block expansion in a reliable manner, we can all support it.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;127.0.0.1:4000/images/translations/haobtc-block-size-debate/2016-01-15-haobtc-block-size-debate-2.jpg&quot; alt=&quot;Response to Haobtc on the block size debate by 闪电&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/haobtc-block-size-debate/2016-01-15-haobtc-block-size-debate-2.jpg&quot; alt=&quot;Response to Haobtc on the block size debate by 闪电&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;lightning&quot;&gt;闪电 (Lightning):&lt;/h3&gt;
 
@@ -104,63 +209,63 @@
 
 &lt;p&gt;If F2Pool doesn’t support, well then what? Will Haobtc switch mining pools?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;127.0.0.1:4000/images/translations/haobtc-block-size-debate/2016-01-15-haobtc-block-size-debate-3.jpg&quot; alt=&quot;Response to Haobtc on the block size debate by ahr999&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/haobtc-block-size-debate/2016-01-15-haobtc-block-size-debate-3.jpg&quot; alt=&quot;Response to Haobtc on the block size debate by ahr999&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;ahr999&quot;&gt;ahr999:&lt;/h3&gt;
 
 &lt;p&gt;Support @星空 (Editor’s note: The official Haobtc account)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;127.0.0.1:4000/images/translations/haobtc-block-size-debate/2016-01-15-haobtc-block-size-debate-4.jpg&quot; alt=&quot;Response to Haobtc on the block size debate by 比科技熊小二&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/haobtc-block-size-debate/2016-01-15-haobtc-block-size-debate-4.jpg&quot; alt=&quot;Response to Haobtc on the block size debate by 比科技熊小二&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;bikejis-little-waiter&quot;&gt;比科技熊小二 (Bikeji’s little waiter):&lt;/h3&gt;
 
 &lt;p&gt;Support!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;127.0.0.1:4000/images/translations/haobtc-block-size-debate/2016-01-15-haobtc-block-size-debate-5.jpg&quot; alt=&quot;Response to Haobtc on the block size debate by 神鱼BTCer&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/haobtc-block-size-debate/2016-01-15-haobtc-block-size-debate-5.jpg&quot; alt=&quot;Response to Haobtc on the block size debate by 神鱼BTCer&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;btcer-spirit-fish&quot;&gt;神鱼BTCer (Spirit Fish):&lt;/h3&gt;
 
 &lt;p&gt;Support&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;127.0.0.1:4000/images/translations/haobtc-block-size-debate/2016-01-15-haobtc-block-size-debate-6.jpg&quot; alt=&quot;Response to Haobtc on the block size debate by P2PBUCKS&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/haobtc-block-size-debate/2016-01-15-haobtc-block-size-debate-6.jpg&quot; alt=&quot;Response to Haobtc on the block size debate by P2PBUCKS&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;p2pbucks&quot;&gt;P2PBUCKS:&lt;/h3&gt;
 
 &lt;p&gt;Support!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;127.0.0.1:4000/images/translations/haobtc-block-size-debate/2016-01-15-haobtc-block-size-debate-7.jpg&quot; alt=&quot;Response to Haobtc on the block size debate by 比科技熊小二&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/haobtc-block-size-debate/2016-01-15-haobtc-block-size-debate-7.jpg&quot; alt=&quot;Response to Haobtc on the block size debate by 比科技熊小二&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;bikejis-little-waiter-1&quot;&gt;比科技熊小二 (Bikeji’s little waiter):&lt;/h3&gt;
 
 &lt;p&gt;@神鱼BTCer 🐟always travel in big shoals&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;127.0.0.1:4000/images/translations/haobtc-block-size-debate/2016-01-15-haobtc-block-size-debate-8.jpg&quot; alt=&quot;Response to Haobtc on the block size debate by 云&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/haobtc-block-size-debate/2016-01-15-haobtc-block-size-debate-8.jpg&quot; alt=&quot;Response to Haobtc on the block size debate by 云&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;cloud&quot;&gt;云 (Cloud):&lt;/h3&gt;
 
 &lt;p&gt;What’s the Classic proposal?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;127.0.0.1:4000/images/translations/haobtc-block-size-debate/2016-01-15-haobtc-block-size-debate-9.jpg&quot; alt=&quot;Response to Haobtc on the block size debate by mkz899&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/haobtc-block-size-debate/2016-01-15-haobtc-block-size-debate-9.jpg&quot; alt=&quot;Response to Haobtc on the block size debate by mkz899&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;mkz899&quot;&gt;mkz899:&lt;/h3&gt;
 
 &lt;p&gt;@星空 Send it to Bitcointalk, send an English version&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;127.0.0.1:4000/images/translations/haobtc-block-size-debate/2016-01-15-haobtc-block-size-debate-10.jpg&quot; alt=&quot;Response to Haobtc on the block size debate by 鱼殊&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/haobtc-block-size-debate/2016-01-15-haobtc-block-size-debate-10.jpg&quot; alt=&quot;Response to Haobtc on the block size debate by 鱼殊&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;special-fish&quot;&gt;鱼殊(Special Fish):&lt;/h3&gt;
 
 &lt;p&gt;I hope the final proposal is achieved on Bitcoin Core. Of course, if Classic is extremely reasonable and reliable, I hope they’ll do good work on public relations.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;127.0.0.1:4000/images/translations/haobtc-block-size-debate/2016-01-15-haobtc-block-size-debate-11.jpg&quot; alt=&quot;Response to Haobtc on the block size debate by Trueiron&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/haobtc-block-size-debate/2016-01-15-haobtc-block-size-debate-11.jpg&quot; alt=&quot;Response to Haobtc on the block size debate by Trueiron&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;trueiron&quot;&gt;Trueiron:&lt;/h3&gt;
 
 &lt;p&gt;Whether you support something or not doesn’t mean much. What we need is people who can actually deliver the code! We don’t want something like BIP100, made a big fuss but in fact it’s just a proposal too, nobody wrote any code.&lt;/p&gt;
 </description>
         <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
-        <link>127.0.0.1:4000/haobtc-blocksize-debate</link>
-        <guid isPermaLink="true">127.0.0.1:4000/haobtc-blocksize-debate</guid>
+        <link>https://bitcoinzh.com/haobtc-blocksize-debate</link>
+        <guid isPermaLink="true">https://bitcoinzh.com/haobtc-blocksize-debate</guid>
         
         
         <category>china-talks-bitcoin</category>
@@ -203,8 +308,8 @@
 &lt;p&gt;As Deloitte’s China Eastern Regional Managing Partner, Mr Patrick Tsang, points out, this hackathon is just a starting point. All kinds of ideas based on disruptive blockchain technology are provoking keen interest, and in the foreseeable future will have a profound influence on a large number of industries within the financial sector, creating opportunities for cooperation across different areas of expertise, increasing efficiencies in resource deployment and assisting in corporate transformations. Whether by enthusiastic adoption or passive acceptance, it will upset the status quo in all kinds of industries.&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
-        <link>127.0.0.1:4000/shanghai-blockchain-hackathon</link>
-        <guid isPermaLink="true">127.0.0.1:4000/shanghai-blockchain-hackathon</guid>
+        <link>https://bitcoinzh.com/shanghai-blockchain-hackathon</link>
+        <guid isPermaLink="true">https://bitcoinzh.com/shanghai-blockchain-hackathon</guid>
         
         
         <category>china-talks-bitcoin</category>
@@ -221,7 +326,7 @@
 
 &lt;p&gt;Note: The “digital gold” referred to here is cryptocurrency, not electronic currencies based on a gold standard (E-money).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain.jpg&quot; alt=&quot;Response to What A BlockChain Is by chehw_1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain.jpg&quot; alt=&quot;Response to What A BlockChain Is by chehw_1&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A blockchain is a ledger whose contents cannot easily be tampered with, its entries in a sequence that may not easily be tampered with. The theory and robustness are principally based on the maturity of hash algorithms. Its features include timestamping and a distributed database (for consistent ledger contents) with backups in different locations.&lt;/p&gt;
 
@@ -235,7 +340,7 @@
 
 &lt;p&gt;[Bitcoin] = [Digital gold] + [PoW blockchain] + [P2P]. This is the first time trustless digital cash and transactions have ever been realised.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-2.jpg&quot; alt=&quot;Response to What A BlockChain Is by a1379246856&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-2.jpg&quot; alt=&quot;Response to What A BlockChain Is by a1379246856&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;a1379246856&quot;&gt;a1379246856:&lt;/h3&gt;
 
@@ -250,12 +355,12 @@
   &lt;li&gt;To create a bitcoin transaction, it’s sufficient to broadcast the transaction details to the P2P network. When the miners’ record of your transaction has become part of a new block on the blockchain, the transaction is complete.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-3.jpg&quot; alt=&quot;Response to What A BlockChain Is by sumubaobei&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-3.jpg&quot; alt=&quot;Response to What A BlockChain Is by sumubaobei&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;sumubaobei&quot;&gt;sumubaobei:&lt;/h3&gt;
 &lt;p&gt;What are you, wikipedia?!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-4.jpg&quot; alt=&quot;Response to What A BlockChain Is by 芭比馒头&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-4.jpg&quot; alt=&quot;Response to What A BlockChain Is by 芭比馒头&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;barbies-steamed-buns&quot;&gt;芭比馒头 (Barbie’s steamed buns):&lt;/h3&gt;
 &lt;blockquote&gt;
@@ -264,22 +369,22 @@
 
 &lt;p&gt;Sorted, OP owes you 20 bucks.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-5.jpg&quot; alt=&quot;Response to What A BlockChain Is by bitbybit&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-5.jpg&quot; alt=&quot;Response to What A BlockChain Is by bitbybit&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;bitbybit&quot;&gt;bitbybit:&lt;/h3&gt;
 &lt;p&gt;chehw_1’s explanation was the most well-defined, you could put it in a textbook.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-6.jpg&quot; alt=&quot;Response to What A BlockChain Is by sider&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-6.jpg&quot; alt=&quot;Response to What A BlockChain Is by sider&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;sider&quot;&gt;sider:&lt;/h3&gt;
 &lt;p&gt;I don’t know, don’t ask such hard questions&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-7.jpg&quot; alt=&quot;Response to What A BlockChain Is by Xseraph2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-7.jpg&quot; alt=&quot;Response to What A BlockChain Is by Xseraph2&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;xseraph2&quot;&gt;Xseraph2:&lt;/h3&gt;
 &lt;p&gt;I bow in admiration before chehw_1, every word is original, not one copied and pasted.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-8.jpg&quot; alt=&quot;Response to What A BlockChain Is by idgui.com&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-8.jpg&quot; alt=&quot;Response to What A BlockChain Is by idgui.com&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;idguicom&quot;&gt;idgui.com:&lt;/h3&gt;
 &lt;p&gt;A few of the comments above are pretty thorough, so I’ll just give an easy-to-understand introduction:&lt;/p&gt;
@@ -299,21 +404,21 @@ Bitcoin’s blockchain is decentralized. It can’t be controlled or altered by 
 Blockchain applications record data on the blockchain as a proof of its existence. Because of the blockchain’s mass consensus system, it can be used to issue proofs of stock and equity. There are too many blockchain applications already, you couldn’t name them all in a lifetime, but all this blockchain technology aims at decentralization and immutability. And for the moment, the only one which can achieve this is bitcoin. In a way therefore, you can consider all blockchains to be based on the Bitcoin blockchain technology.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-9.jpg&quot; alt=&quot;Response to What A BlockChain Is by 510685947&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-9.jpg&quot; alt=&quot;Response to What A BlockChain Is by 510685947&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;section&quot;&gt;510685947:&lt;/h3&gt;
 &lt;p&gt;Put simply it’s just a ledger. Whatever good and bad things you’ve done, like what you came to chat about today, did you have breakfast today, have you jerked off today, every incident is recorded. POW doesn’t have so much CPU it can’t be modified, POS doesn’t have so much coin it can’t be modified, it’s as simple as that.&lt;/p&gt;
 
 &lt;p&gt;Note: 510685947’s signature says “Thanks Satoshi, for bringing us together. Thanks 8btc, for letting us meet our bros from every corner of the world.”&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;127.0.0.1:4000/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-10.jpg&quot; alt=&quot;Response to What A BlockChain Is by zln0927&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockchain-10.jpg&quot; alt=&quot;Response to What A BlockChain Is by zln0927&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;zln0927&quot;&gt;zln0927:&lt;/h3&gt;
 &lt;p&gt;Bitcoin is a token of value built on blockchain value. Other cryptocurrencies are also built on blockchains, although at the moment Bitcoin’s is the best.&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Jan 2016 00:00:00 +0000</pubDate>
-        <link>127.0.0.1:4000/what-is-a-blockchain</link>
-        <guid isPermaLink="true">127.0.0.1:4000/what-is-a-blockchain</guid>
+        <link>https://bitcoinzh.com/what-is-a-blockchain</link>
+        <guid isPermaLink="true">https://bitcoinzh.com/what-is-a-blockchain</guid>
         
         
         <category>china-talks-bitcoin</category>

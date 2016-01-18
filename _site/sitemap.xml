@@ -1,43 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>127.0.0.1:4000/death-of-bitcoin-legacy-banking-conspiracy</loc>
+    <loc>https://bitcoinzh.com/Chinese-views-on-Bitcoin-decentralization</loc>
+    <lastmod>2016-01-18T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinzh.com/death-of-bitcoin-legacy-banking-conspiracy</loc>
     <lastmod>2016-01-17T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>127.0.0.1:4000/haobtc-blocksize-debate</loc>
+    <loc>https://bitcoinzh.com/haobtc-blocksize-debate</loc>
     <lastmod>2016-01-15T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>127.0.0.1:4000/shanghai-blockchain-hackathon</loc>
+    <loc>https://bitcoinzh.com/shanghai-blockchain-hackathon</loc>
     <lastmod>2016-01-12T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>127.0.0.1:4000/what-is-a-blockchain</loc>
+    <loc>https://bitcoinzh.com/what-is-a-blockchain</loc>
     <lastmod>2016-01-11T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>127.0.0.1:4000/about/</loc>
+    <loc>https://bitcoinzh.com/about/</loc>
   </url>
   <url>
-    <loc>127.0.0.1:4000/china-talks-bitcoin/</loc>
+    <loc>https://bitcoinzh.com/china-talks-bitcoin/</loc>
   </url>
   <url>
-    <loc>127.0.0.1:4000/</loc>
+    <loc>https://bitcoinzh.com/</loc>
   </url>
   <url>
-    <loc>127.0.0.1:4000/pages/workflow-zh.html</loc>
+    <loc>https://bitcoinzh.com/pages/workflow-zh.html</loc>
   </url>
   <url>
-    <loc>127.0.0.1:4000/pages/workflow.html</loc>
+    <loc>https://bitcoinzh.com/pages/workflow.html</loc>
   </url>
   <url>
-    <loc>127.0.0.1:4000/requests/chinese-english/chinese-request.html</loc>
+    <loc>https://bitcoinzh.com/requests/chinese-english/chinese-request.html</loc>
   </url>
   <url>
-    <loc>127.0.0.1:4000/requests/english-chinese/a-sample-request.html</loc>
+    <loc>https://bitcoinzh.com/requests/english-chinese/a-sample-request.html</loc>
   </url>
   <url>
-    <loc>127.0.0.1:4000/requests/</loc>
+    <loc>https://bitcoinzh.com/requests/</loc>
   </url>
 </urlset>
