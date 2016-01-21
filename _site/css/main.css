@@ -701,6 +701,10 @@ ul.requests-index {
       float: none;
       max-width: 100%; } }
 
+p.longform-intro {
+  padding: 15px 30px;
+  border-left: 2px solid #cf000f; }
+
 .post-content {
   margin-bottom: 30px; }
   .post-content img {

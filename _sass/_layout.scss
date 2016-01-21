@@ -559,6 +559,11 @@ ul.requests-index {
   }
 }
 
+p.longform-intro {
+  padding: $spacing-unit/2 $spacing-unit;
+  border-left: 2px solid $red-color;
+}
+
 .post-content {
   margin-bottom: $spacing-unit;
 
