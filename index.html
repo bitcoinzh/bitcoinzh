@@ -21,7 +21,7 @@ title: Home
 
 <h1 class="index-heading">Translation Requests</h1>
 <ul class="requests-index">
-{% for request in site.requests | limit: 4 %}
+{% for request in site.requests limit: 4 %}
   {% unless forloop.last == true %}
   <a class="post-link" href="{{ request.url }}">
     <div class="request-skew"></div>

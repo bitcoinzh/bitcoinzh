@@ -11,7 +11,7 @@ enforce_ssl: bitcoinzh.com
 twitter_username: bitcoinzh
 github_username:  bitcoinzh
 permalink: /:title
-paginate: 5
+paginate: 8
 paginate_path: /china-talks-bitcoin/:num
 
 # Gems
