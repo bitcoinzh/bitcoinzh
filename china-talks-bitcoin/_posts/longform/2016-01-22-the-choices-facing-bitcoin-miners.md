@@ -5,14 +5,14 @@ description: A passionate plea that outlines the main arguments for block size i
 translator: "Damian O'Loan"
 source_url: https://bikeji.com/t/3149#reply48
 source_site: bikeji.com
-img-path: /images/translations/china-to-issue-digital-currency/2016-01-22-the-choices-facing-bitcoin-miners.jpg
+img-path: /images/translations/the-choices-facing-bitcoin-miners/2016-01-22-the-choices-facing-bitcoin-miners.jpg
 keyword: 矿池 | Kuang Chi | Mining Pool
 ---
 ###[The key choices facing Bitcoin] A Request to All BTC Holders to Support Expansion to 2MB
 Author: ltc1btc mining pool founder, Jiang Zhou Er
 Declared Interests: Bitcoin / Litecoin mining, currency holder
 
-![The choices facing bitcoin miners, Chinese text from Bikeji]({{ '/images/translations/the-choices-facing-bitcoin-miners/2016-01-22-the-choices-facing-bitcoin-miners.png' | prepend: site.url }})
+![The choices facing bitcoin miners, Chinese text from Bikeji]({{ '/images/translations/the-choices-facing-bitcoin-miners/2016-01-22-the-choices-facing-bitcoin-miners.jpg' | prepend: site.url }})
 
 Without risk of exaggeration, the key choices facing Bitcoin are:
 
