@@ -22,7 +22,7 @@ Without risk of exaggeration, the key choices facing Bitcoin are:
 - The Core developers recruited by Blockstream have a long record of opposing any block expansion proposal - even to 2MB.
 - Satoshi disciple, Gavin Andressen and another Core developer, Jeff Garzik, are unable to convince the others, and thus formed the Bitcoin Classic dev group to drive forward expansion to a 2MB block, but the situation currently does not look favorable.
 
-![The choices facing bitcoin miners, Chinese comment image]({{ '/images/translations/the-choices-facing-bitcoin-miners/2016-01-22-the-choices-facing-bitcoin-miners-2.png' | prepend: site.url }})
+![The choices facing bitcoin miners, Chinese comment image]({{ '/images/translations/the-choices-facing-bitcoin-miners/2016-01-22-the-choices-facing-bitcoin-miners-2.jpg' | prepend: site.url }})
 
 @P2PBUCKS
 The outcome of today's meeting in Beijing is:
