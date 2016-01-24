@@ -174,6 +174,6 @@ P.S. Hasn't Wu Gang [Editor's note: Haobtc CEO, Wu Gang] already supported Core?
 
 ![China proposal to reconcile Bitcoin, response by sangzou]({{ '/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin-13.jpg' | prepend: site.url }})
 
-The community's core devs have explained this issue very clearly: including Peter Todd, they have all signed in support of "<a href="" title="Bitcoin Core team roadmap, Capacity increases for the Bitcoin system.">Capacity increases for the Bitcoin system</a>."
+The community's core devs have explained this issue very clearly: including Peter Todd, they have all signed in support of "<a href="https://bitcoincore.org/en/2015/12/21/capacity-increase/" title="Bitcoin Core team roadmap, Capacity increases for the Bitcoin system.">Capacity increases for the Bitcoin system</a>."
 
 Can I ask, for what reason do you not support them? From a technical point of view (serious).
