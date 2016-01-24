@@ -24,15 +24,16 @@ Regarding block size, the participants reached consensus, and hope all Bitcoin c
 
 Meeting participants:
 
-Haobtc CEO, Wu Gang
-Bitmain CEO, Wu Ji Han
-Antminer Pool, Pan Zhibiao
-BTC123, Guo Hongcai
-Richfund, Zhao Guofeng
-Yunbi, Mr Mao
-Bither, Wen Hao
-BTCKan, Fang Fang
-Sosobtc, Lin Jiapeng
+- Haobtc CEO, Wu Gang
+- Bitmain CEO, Wu Ji Han
+- Antminer Pool, Pan Zhibiao
+- BTC123, Guo Hongcai
+- Richfund, Zhao Guofeng
+- Yunbi, Mr Mao
+- Bither, Wen Hao
+- BTCKan, Fang Fang
+- Sosobtc, Lin Jiapeng
+
 (Excuse me if any of the numerous participants have not been included.)
 
 ###Consensus Solution
