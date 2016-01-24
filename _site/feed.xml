@@ -5,17 +5,107 @@
     <description>China Talks Bitcoin</description>
     <link>https://bitcoinzh.com/</link>
     <atom:link href="https://bitcoinzh.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 Jan 2016 21:49:19 +0000</pubDate>
-    <lastBuildDate>Fri, 22 Jan 2016 21:49:19 +0000</lastBuildDate>
+    <pubDate>Sun, 24 Jan 2016 18:13:08 +0000</pubDate>
+    <lastBuildDate>Sun, 24 Jan 2016 18:13:08 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>The choices facing bitcoin miners</title>
+        <title>Chinese proposal to reconcile Bitcoin</title>
+        <description>&lt;h3 id=&quot;bitcoin-community-reaches-902-consensus-supports-2mb-blocks-rejects-any-fork-with-less-than-90-consensus&quot;&gt;Bitcoin community reaches 90/2 consensus: Supports 2MB blocks, rejects any fork with less than 90% consensus.&lt;/h3&gt;
+
+&lt;p&gt;Author: ltc1btc mining pool founder, Jiang Zhou Er
+Declared Interests: Bitcoin / Litecoin mining, currency holder&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin.jpg&quot; alt=&quot;China proposal to reconcile Bitcoin, Chinese text from 8btc&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On the afternoon of the 1/23, on the coldest of days in Beijing, Haobtc organised a meeting to warm the spirits of the Bitcoin community through action. There was passionate discussion of issues including the development of Haobtc, expansion of block size, mining and the future prospects of Bitcoin.&lt;/p&gt;
+
+&lt;p&gt;Regarding block size, the participants reached consensus, and hope all Bitcoin companies and users will also join the consensus, around the following 90/2 proposal:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Bitcoin block size needs to expand to 2MB.&lt;/li&gt;
+  &lt;li&gt;Opposition to any fork with under 90% consensus.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Meeting participants:&lt;/p&gt;
+
+&lt;p&gt;Haobtc CEO, Wu Gang
+Bitmain CEO, Wu Ji Han
+Antminer Pool, Pan Zhibiao
+BTC123, Guo Hongcai
+Richfund, Zhao Guofeng
+Yunbi, Mr Mao
+Bither, Wen Hao
+BTCKan, Fang Fang
+Sosobtc, Lin Jiapeng
+(Excuse me if any of the numerous participants have not been included.)&lt;/p&gt;
+
+&lt;h3 id=&quot;consensus-solution&quot;&gt;Consensus Solution&lt;/h3&gt;
+
+&lt;p&gt;As we know, block size expansion is a technical issue, where personal interests have led to it becoming a political issue. For full background, please see the previous article, &lt;a href=&quot;/the-choices-facing-bitcoin-miners/&quot;&gt;The Choices Facing Bitcoin Miners&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Yesterday’s Miami meeting didn’t lead to any substantive proposal or conclusions. As there is no consensus to fork to Classic, in order to a avoid division within the community we must put aside our differences and reach a more basic form of consensus. Core states that expansion without consensus is risky. If consensus is required, that’s what we’ll provide.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This consensus can obtain widespread unanimity, avoid division and bring reassurance to the market, and is flexible enough to be future-proofed.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;90% consensus is sufficient to reject any potential community division and ensures security in the community will continue to develop.&lt;/p&gt;
+
+&lt;p&gt;Consensus around 2MB has its origins in Satoshi’s white paper - “&lt;a href=&quot;https://bitcoin.org/bitcoin.pdf&quot; title=&quot;Bitcoin White Paper by Satoshi Nakamoto&quot;&gt;Bitcoin: A Peer-to-Peer Electronic Cash System&lt;/a&gt;” - &lt;em&gt;not&lt;/em&gt; A Peer-to-Peer Settlement System. According to Satoshi Nakamoto’s design, bitcoin is a currency and not a settlement system. 1MB is incapable of meeting the demands of a currency, and is even incapable of meeting the requirements of a settlement system (1MB = 7 transactions / second, SWIFT = 60 transactions / second).&lt;/p&gt;
+
+&lt;p&gt;We welcome all Bitcoin companies and users to add to this basic form of consensus. For example, during discussion the following proposal was suggested:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If blocks are full, block size still hasn’t been increased to 2MB and the Classic proposal still hasn’t achieved consensus, and if the condition of 90% consensus is met, in line with the block expansion contingency plan by Satoshi Nakamoto in 2010 &lt;a href=&quot;https://bitcoin.org/bitcoin.pdf&quot; title=&quot;Block Size Expansion Patch&quot;&gt;([PATCH] increase block size limit)&lt;/a&gt;, change a single line of code in the current repo to increase 1MB to 2MB. This would dissipate the imminent danger and provide ample time for the community to discuss the merits of various proposals.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This, it must be accepted, is a simple proposal highly likely to gain widespread consensus. With this kind of feasible proposal, we can cause/force Core to actively settle the dispute.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-risks-of-segwit&quot;&gt;The Risks of SegWit&lt;/h3&gt;
+
+&lt;p&gt;Core developers are attempting to use SegWit to indirectly increase capacity, but there are major problems and concealed security issues.&lt;/p&gt;
+
+&lt;p&gt;Firstly, if SegWit is used in 100% of all single-signature transactions, the maximum impact will be an increase to 1.6MB. Due to the complexity and enormous development work entailed by SegWit, it will be practically difficult for applications to update, and some may even be unwilling. If it is used in 50% of transactions, within 6-12 months we will have reached effective expansion to 1.3MB, which is quite insignificant.&lt;/p&gt;
+
+&lt;p&gt;Secondly, SegWit means a major revision of Bitcoin’s base logic, huge development work and a high level of risk. Under pressure from the community, Core developers have clearly been racing against the clock. Bitmain CEO, Wu Jihan, confirmed this saying:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Under the circumstances, Core developers have been working well over ten hours a day.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Many Bitcoin users come from a technical background. They know what kind of code is written under these circumstances of time pressure.&lt;/p&gt;
+
+&lt;p&gt;Contrary to the impression of Bitcoin as “stable and robust”, there have historically been several security issues. If SegWit is hastily implemented, &lt;strong&gt;should such security issues appear, Bitcoin’s value won’t just fluctuate by tens of dollars, it will be wiped out and the reputational damage will be long-lasting and nefarious.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Thus, it’s critical we prevent Core from hastily implementing SegWit.&lt;/p&gt;
+
+&lt;h3 id=&quot;consensus-actions&quot;&gt;Consensus Actions&lt;/h3&gt;
+
+&lt;p&gt;We will spare no efforts in asking other Bitcoin companies to join in this consensus.&lt;/p&gt;
+
+&lt;p&gt;We invite you to reply in the comments below [Editor’s note: 8btc.com comments, link at page head] indicating your support. Thanks everyone for supporting Bitcoin!&lt;/p&gt;
+
+&lt;p&gt;Further explanation: why 90% CPU consensus?&lt;/p&gt;
+
+&lt;p&gt;Because some miners do not belong to public pools (individuals or private pools), it’s difficult for this group to express their wishes.&lt;/p&gt;
+
+&lt;p&gt;Excluding this silent CPU and asking for 90% consensus is equivalent to asking for 95% consensus among all public pools.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Jan 2016 00:00:00 +0000</pubDate>
+        <link>https://bitcoinzh.com/Chinese-proposal-to-reconcile-Bitcoin</link>
+        <guid isPermaLink="true">https://bitcoinzh.com/Chinese-proposal-to-reconcile-Bitcoin</guid>
+        
+        
+        <category>china-talks-bitcoin</category>
+        
+      </item>
+    
+      <item>
+        <title>The choices facing Bitcoin miners</title>
         <description>&lt;h3 id=&quot;the-key-choices-facing-bitcoin-a-request-to-all-btc-holders-to-support-expansion-to-2mb&quot;&gt;[The key choices facing Bitcoin] A Request to All BTC Holders to Support Expansion to 2MB&lt;/h3&gt;
 &lt;p&gt;Author: ltc1btc mining pool founder, Jiang Zhou Er
 Declared Interests: Bitcoin / Litecoin mining, currency holder&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/the-choices-facing-bitcoin-miners/2016-01-22-the-choices-facing-bitcoin-miners.png&quot; alt=&quot;The choices facing bitcoin miners, Chinese text from Bikeji&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/the-choices-facing-bitcoin-miners/2016-01-22-the-choices-facing-bitcoin-miners.jpg&quot; alt=&quot;The choices facing bitcoin miners, Chinese text from Bikeji&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Without risk of exaggeration, the key choices facing Bitcoin are:&lt;/p&gt;
 
@@ -27,7 +117,7 @@ Declared Interests: Bitcoin / Litecoin mining, currency holder&lt;/p&gt;
   &lt;li&gt;Satoshi disciple, Gavin Andressen and another Core developer, Jeff Garzik, are unable to convince the others, and thus formed the Bitcoin Classic dev group to drive forward expansion to a 2MB block, but the situation currently does not look favorable.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/the-choices-facing-bitcoin-miners/2016-01-22-the-choices-facing-bitcoin-miners-2.png&quot; alt=&quot;The choices facing bitcoin miners, Chinese comment image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/the-choices-facing-bitcoin-miners/2016-01-22-the-choices-facing-bitcoin-miners-2.jpg&quot; alt=&quot;The choices facing bitcoin miners, Chinese comment image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;@P2PBUCKS
 The outcome of today’s meeting in Beijing is:
