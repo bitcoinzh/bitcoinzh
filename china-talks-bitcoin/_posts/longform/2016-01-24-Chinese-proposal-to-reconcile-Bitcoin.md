@@ -50,7 +50,7 @@ Consensus around 2MB has its origins in Satoshi's white paper - "<a href="https:
 
 We welcome all Bitcoin companies and users to add to this basic form of consensus. For example, during discussion the following proposal was suggested:
 
-> If blocks are full, block size still hasn't been increased to 2MB and the Classic proposal still hasn't achieved consensus, and if the condition of 90% consensus is met, in line with the block expansion contingency plan by Satoshi Nakamoto in 2010 <a href="https://bitcoin.org/bitcoin.pdf" title="Block Size Expansion Patch">([PATCH] increase block size limit)</a>, change a single line of code in the current repo to increase 1MB to 2MB. This would dissipate the imminent danger and provide ample time for the community to discuss the merits of various proposals.
+> If blocks are full, block size still hasn't been increased to 2MB and the Classic proposal still hasn't achieved consensus, and if the condition of 90% consensus is met, in line with the block expansion contingency plan by Satoshi Nakamoto in 2010 <a href="https://bitcointalk.org/index.php?topic=1347.msg15366#msg15366" title="Block Size Expansion Patch">([PATCH] increase block size limit)</a>, change a single line of code in the current repo to increase 1MB to 2MB. This would dissipate the imminent danger and provide ample time for the community to discuss the merits of various proposals.
 
 This, it must be accepted, is a simple proposal highly likely to gain widespread consensus. With this kind of feasible proposal, we can cause/force Core to actively settle the dispute.
 
