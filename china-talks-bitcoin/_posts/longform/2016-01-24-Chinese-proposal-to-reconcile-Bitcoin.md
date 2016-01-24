@@ -81,3 +81,99 @@ Further explanation: why 90% CPU consensus?
 Because some miners do not belong to public pools (individuals or private pools), it's difficult for this group to express their wishes.
 
 Excluding this silent CPU and asking for 90% consensus is equivalent to asking for 95% consensus among all public pools.
+
+![China proposal to reconcile Bitcoin, response by 水无魂]({{ '/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin-2.jpg' | prepend: site.url }})
+
+###水无魂 Shui Wuhun:
+
+I'm a bitcoin holder and user, and I support this consensus.
+
+![China proposal to reconcile Bitcoin, response by satoshi]({{ '/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin-3.jpg' | prepend: site.url }})
+
+###satoshi:
+
+I'm a bitcoin holder and user, and I support this consensus.
+
+![China proposal to reconcile Bitcoin, response by 深水埗惊云]({{ '/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin-4.jpg' | prepend: site.url }})
+
+###深水埗惊云:
+
+I'm a bitcoin holder and user, and I support this consensus.
+
+![China proposal to reconcile Bitcoin, response by bluestar]({{ '/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin-5.jpg' | prepend: site.url }})
+
+###bluestar:
+
+What good news - as soon as it came out the price went straight up!
+
+![China proposal to reconcile Bitcoin, response by jb9082]({{ '/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin-6.jpg' | prepend: site.url }})
+
+###jb9082 [Editor's note: this name is rude, isn't Chinese subtle;)]:
+
+Using Classic instead of Core is the most appropriate proposal. I've lost confidence in the Core team.
+
+![China proposal to reconcile Bitcoin, response by 莱特币矿池]({{ '/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin-7.jpg' | prepend: site.url }})
+
+###莱特币矿池 Litecoin Mining Pool:
+
+Reply to jb9082 above:
+
+If everyone agreed with Classic, then it'd be simple.
+
+But Classic has issues with maturity and communication which led to some people opposing it.
+
+Now perhaps a good outcome has occurred: Core persists in not making blocks bigger, then mining pools with the assent of the community and in line with Satoshi's contingency plan, change one line of code to upgrade to 2MB.
+
+Completely destroying this sole, central power of Core.
+
+![China proposal to reconcile Bitcoin, response by jb9082]({{ '/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin-8.jpg' | prepend: site.url }})
+
+###jb9082:
+
+Reply to Litecoin Mining Pool above:
+
+This is a good plan!
+
+![China proposal to reconcile Bitcoin, response by 恐龙化石]({{ '/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin-9.jpg' | prepend: site.url }})
+
+###恐龙化石 Dinosaur Fossil:
+
+Reply to Litecoin Mining Pool above:
+
+I agree!
+
+Although Core have done a lot of work, they need to listen to the community more.
+
+Chinese voices can't be ignored!
+
+In yesterday's meeting, Core said there was insufficient consensus, but the last 2MB proposal has the support of a lot of companies, miners and exchanges.
+
+Everyone agrees it must be on Core that the block size is expanded to 2MB.
+
+![China proposal to reconcile Bitcoin, response by yuli7376]({{ '/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin-10.jpg' | prepend: site.url }})
+
+###yuli7376:
+
+"change a single line of code in the current repo to increase 1MB to 2MB"
+
+Aren't there issues with upgrading in this way? If it wouldn't lead to any harmful consequences, then it's not necessarily out of the question.
+
+![China proposal to reconcile Bitcoin, response by sider]({{ '/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin-11.jpg' | prepend: site.url }})
+
+###sider:
+
+Only has support within China then.
+
+I thought the whole Core team had all agreed to it.
+
+![China proposal to reconcile Bitcoin, response by sangzou]({{ '/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin-12.jpg' | prepend: site.url }})
+
+I support Bitcoin Core!
+
+P.S. Hasn't Wu Gang [Editor's note: Haobtc CEO, Wu Gang] already supported Core? <a href="https://github.com/bitcoin-core/website/issues/50" title="Github Issue containing names of individuals and companies who have declared support for the Bitcoin Core team roadmap.">https://github.com/bitcoin-core/website/issues/50</a>
+
+![China proposal to reconcile Bitcoin, response by sangzou]({{ '/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin-13.jpg' | prepend: site.url }})
+
+The community's core devs have explained this issue very clearly: including Peter Todd, they have all signed in support of "<a href="" title="Bitcoin Core team roadmap, Capacity increases for the Bitcoin system.">Capacity increases for the Bitcoin system</a>."
+
+Can I ask, for what reason do you not support them? From a technical point of view (serious).

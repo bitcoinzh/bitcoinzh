@@ -5,8 +5,8 @@
     <description>China Talks Bitcoin</description>
     <link>https://bitcoinzh.com/</link>
     <atom:link href="https://bitcoinzh.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 24 Jan 2016 18:13:08 +0000</pubDate>
-    <lastBuildDate>Sun, 24 Jan 2016 18:13:08 +0000</lastBuildDate>
+    <pubDate>Sun, 24 Jan 2016 22:54:52 +0000</pubDate>
+    <lastBuildDate>Sun, 24 Jan 2016 22:54:52 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -29,16 +29,19 @@ Declared Interests: Bitcoin / Litecoin mining, currency holder&lt;/p&gt;
 
 &lt;p&gt;Meeting participants:&lt;/p&gt;
 
-&lt;p&gt;Haobtc CEO, Wu Gang
-Bitmain CEO, Wu Ji Han
-Antminer Pool, Pan Zhibiao
-BTC123, Guo Hongcai
-Richfund, Zhao Guofeng
-Yunbi, Mr Mao
-Bither, Wen Hao
-BTCKan, Fang Fang
-Sosobtc, Lin Jiapeng
-(Excuse me if any of the numerous participants have not been included.)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Haobtc CEO, Wu Gang&lt;/li&gt;
+  &lt;li&gt;Bitmain CEO, Wu Ji Han&lt;/li&gt;
+  &lt;li&gt;Antminer Pool, Pan Zhibiao&lt;/li&gt;
+  &lt;li&gt;BTC123, Guo Hongcai&lt;/li&gt;
+  &lt;li&gt;Richfund, Zhao Guofeng&lt;/li&gt;
+  &lt;li&gt;Yunbi, Mr Mao&lt;/li&gt;
+  &lt;li&gt;Bither, Wen Hao&lt;/li&gt;
+  &lt;li&gt;BTCKan, Fang Fang&lt;/li&gt;
+  &lt;li&gt;Sosobtc, Lin Jiapeng&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(Excuse me if any of the numerous participants have not been included.)&lt;/p&gt;
 
 &lt;h3 id=&quot;consensus-solution&quot;&gt;Consensus Solution&lt;/h3&gt;
 
@@ -55,7 +58,7 @@ Sosobtc, Lin Jiapeng
 &lt;p&gt;We welcome all Bitcoin companies and users to add to this basic form of consensus. For example, during discussion the following proposal was suggested:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;If blocks are full, block size still hasn’t been increased to 2MB and the Classic proposal still hasn’t achieved consensus, and if the condition of 90% consensus is met, in line with the block expansion contingency plan by Satoshi Nakamoto in 2010 &lt;a href=&quot;https://bitcoin.org/bitcoin.pdf&quot; title=&quot;Block Size Expansion Patch&quot;&gt;([PATCH] increase block size limit)&lt;/a&gt;, change a single line of code in the current repo to increase 1MB to 2MB. This would dissipate the imminent danger and provide ample time for the community to discuss the merits of various proposals.&lt;/p&gt;
+  &lt;p&gt;If blocks are full, block size still hasn’t been increased to 2MB and the Classic proposal still hasn’t achieved consensus, and if the condition of 90% consensus is met, in line with the block expansion contingency plan by Satoshi Nakamoto in 2010 &lt;a href=&quot;https://bitcointalk.org/index.php?topic=1347.msg15366#msg15366&quot; title=&quot;Block Size Expansion Patch&quot;&gt;([PATCH] increase block size limit)&lt;/a&gt;, change a single line of code in the current repo to increase 1MB to 2MB. This would dissipate the imminent danger and provide ample time for the community to discuss the merits of various proposals.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;This, it must be accepted, is a simple proposal highly likely to gain widespread consensus. With this kind of feasible proposal, we can cause/force Core to actively settle the dispute.&lt;/p&gt;
@@ -89,6 +92,102 @@ Sosobtc, Lin Jiapeng
 &lt;p&gt;Because some miners do not belong to public pools (individuals or private pools), it’s difficult for this group to express their wishes.&lt;/p&gt;
 
 &lt;p&gt;Excluding this silent CPU and asking for 90% consensus is equivalent to asking for 95% consensus among all public pools.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin-2.jpg&quot; alt=&quot;China proposal to reconcile Bitcoin, response by 水无魂&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;shui-wuhun&quot;&gt;水无魂 Shui Wuhun:&lt;/h3&gt;
+
+&lt;p&gt;I’m a bitcoin holder and user, and I support this consensus.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin-3.jpg&quot; alt=&quot;China proposal to reconcile Bitcoin, response by satoshi&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;satoshi&quot;&gt;satoshi:&lt;/h3&gt;
+
+&lt;p&gt;I’m a bitcoin holder and user, and I support this consensus.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin-4.jpg&quot; alt=&quot;China proposal to reconcile Bitcoin, response by 深水埗惊云&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;深水埗惊云:&lt;/h3&gt;
+
+&lt;p&gt;I’m a bitcoin holder and user, and I support this consensus.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin-5.jpg&quot; alt=&quot;China proposal to reconcile Bitcoin, response by bluestar&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;bluestar&quot;&gt;bluestar:&lt;/h3&gt;
+
+&lt;p&gt;What good news - as soon as it came out the price went straight up!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin-6.jpg&quot; alt=&quot;China proposal to reconcile Bitcoin, response by jb9082&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;jb9082-editors-note-this-name-is-rude-isnt-chinese-subtle&quot;&gt;jb9082 [Editor’s note: this name is rude, isn’t Chinese subtle;)]:&lt;/h3&gt;
+
+&lt;p&gt;Using Classic instead of Core is the most appropriate proposal. I’ve lost confidence in the Core team.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin-7.jpg&quot; alt=&quot;China proposal to reconcile Bitcoin, response by 莱特币矿池&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;litecoin-mining-pool&quot;&gt;莱特币矿池 Litecoin Mining Pool:&lt;/h3&gt;
+
+&lt;p&gt;Reply to jb9082 above:&lt;/p&gt;
+
+&lt;p&gt;If everyone agreed with Classic, then it’d be simple.&lt;/p&gt;
+
+&lt;p&gt;But Classic has issues with maturity and communication which led to some people opposing it.&lt;/p&gt;
+
+&lt;p&gt;Now perhaps a good outcome has occurred: Core persists in not making blocks bigger, then mining pools with the assent of the community and in line with Satoshi’s contingency plan, change one line of code to upgrade to 2MB.&lt;/p&gt;
+
+&lt;p&gt;Completely destroying this sole, central power of Core.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin-8.jpg&quot; alt=&quot;China proposal to reconcile Bitcoin, response by jb9082&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;jb9082&quot;&gt;jb9082:&lt;/h3&gt;
+
+&lt;p&gt;Reply to Litecoin Mining Pool above:&lt;/p&gt;
+
+&lt;p&gt;This is a good plan!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin-9.jpg&quot; alt=&quot;China proposal to reconcile Bitcoin, response by 恐龙化石&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;dinosaur-fossil&quot;&gt;恐龙化石 Dinosaur Fossil:&lt;/h3&gt;
+
+&lt;p&gt;Reply to Litecoin Mining Pool above:&lt;/p&gt;
+
+&lt;p&gt;I agree!&lt;/p&gt;
+
+&lt;p&gt;Although Core have done a lot of work, they need to listen to the community more.&lt;/p&gt;
+
+&lt;p&gt;Chinese voices can’t be ignored!&lt;/p&gt;
+
+&lt;p&gt;In yesterday’s meeting, Core said there was insufficient consensus, but the last 2MB proposal has the support of a lot of companies, miners and exchanges.&lt;/p&gt;
+
+&lt;p&gt;Everyone agrees it must be on Core that the block size is expanded to 2MB.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin-10.jpg&quot; alt=&quot;China proposal to reconcile Bitcoin, response by yuli7376&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;yuli7376&quot;&gt;yuli7376:&lt;/h3&gt;
+
+&lt;p&gt;“change a single line of code in the current repo to increase 1MB to 2MB”&lt;/p&gt;
+
+&lt;p&gt;Aren’t there issues with upgrading in this way? If it wouldn’t lead to any harmful consequences, then it’s not necessarily out of the question.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin-11.jpg&quot; alt=&quot;China proposal to reconcile Bitcoin, response by sider&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;sider&quot;&gt;sider:&lt;/h3&gt;
+
+&lt;p&gt;Only has support within China then.&lt;/p&gt;
+
+&lt;p&gt;I thought the whole Core team had all agreed to it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin-12.jpg&quot; alt=&quot;China proposal to reconcile Bitcoin, response by sangzou&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I support Bitcoin Core!&lt;/p&gt;
+
+&lt;p&gt;P.S. Hasn’t Wu Gang [Editor’s note: Haobtc CEO, Wu Gang] already supported Core? &lt;a href=&quot;https://github.com/bitcoin-core/website/issues/50&quot; title=&quot;Github Issue containing names of individuals and companies who have declared support for the Bitcoin Core team roadmap.&quot;&gt;https://github.com/bitcoin-core/website/issues/50&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin-13.jpg&quot; alt=&quot;China proposal to reconcile Bitcoin, response by sangzou&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The community’s core devs have explained this issue very clearly: including Peter Todd, they have all signed in support of “&lt;a href=&quot;&quot; title=&quot;Bitcoin Core team roadmap, Capacity increases for the Bitcoin system.&quot;&gt;Capacity increases for the Bitcoin system&lt;/a&gt;.”&lt;/p&gt;
+
+&lt;p&gt;Can I ask, for what reason do you not support them? From a technical point of view (serious).&lt;/p&gt;
 </description>
         <pubDate>Sun, 24 Jan 2016 00:00:00 +0000</pubDate>
         <link>https://bitcoinzh.com/Chinese-proposal-to-reconcile-Bitcoin</link>
