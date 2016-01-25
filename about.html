@@ -1,0 +1,26 @@
+---
+layout: default
+title: About
+permalink: /about/
+---
+<h1>About BitcoinZH</h1>
+
+<p>BitcoinZH is a bridge between Bitcoin communities in China & the West.</p>
+
+<p>It was created following <a href="https://www.reddit.com/r/Bitcoin/comments/408irl/chinese_btc_forum_posts_on_currently_debated/" title="Reddit post: Is BitcoinZH a good idea?">this post on Reddit</a>.</p>
+
+<p>You'll find translations of Bitcoin-related discussion in Chinese media and forums.</p>
+
+<p>If you have a Bitcoin-related text you'd like translated into Chinese or English, for example a White Paper in the run up to a conference, you can submit a Pull Request to have it featured here.</p>
+
+{% include workflow-core.html %}
+
+<p>BitcoinZH.com is an open-source static site made with Jekyll. There are no advertisements and just one cookie.</p>
+
+<p>If you'd like to contribute, <a href="mailto:info@bitcoinzh.com">get in touch</a></p>
+
+<p>Thank you to the owners of the following addresses who kindly donated precious bitcoins.</p>
+
+{% for donor in site.data.donors %}
+  <p class="intro-text">{{ donor.address }}</p>
+{% endfor %}

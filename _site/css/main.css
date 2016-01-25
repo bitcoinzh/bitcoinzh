@@ -496,7 +496,8 @@ p.update-time {
   border-bottom: 2px solid #cf000f;
   display: table;
   margin: 0 auto 30px;
-  text-align: center; }
+  text-align: center;
+  clear: both; }
 
 /**
  * Social share links
@@ -701,9 +702,14 @@ ul.requests-index {
       float: none;
       max-width: 100%; } }
 
-p.longform-intro {
+p.intro-text {
   padding: 15px 30px;
   border-left: 2px solid #cf000f; }
+
+p.home-intro {
+  max-width: 80%;
+  margin: 0 auto 30px;
+  font-weight: 700; }
 
 .post-content {
   margin-bottom: 30px; }
@@ -719,6 +725,18 @@ p.longform-intro {
   @media screen and (max-width: 800px) {
     .post-content {
       padding-left: 30px; } }
+
+/**
+ * Pagination
+ */
+p.page-number {
+  text-align: center; }
+
+a.button.previous {
+  float: left; }
+
+a.button.next {
+  float: right; }
 
 /**
  * Workflow

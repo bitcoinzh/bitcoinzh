@@ -4,8 +4,10 @@ title: Home
 ---
 <h1 class="index-heading">China Talks Bitcoin</h1>
 
+<p class="intro-text home-intro">BitcoinZH features English translations of Bitcoin and Bitcoin Blockchain discussion in Chinese media</p>
+
 <ul class="post-list">
-{% for post in site.posts | limit: 8 %}
+{% for post in site.posts | limit: 3 %}
   <a class="post-link" href="{{ post.url }}">
     <li>
       <img src="{{ post.img-path | prepend: site.url }}" alt="{{ post.title }}" />
