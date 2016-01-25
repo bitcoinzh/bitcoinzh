@@ -718,6 +718,14 @@ p.home-intro {
     margin: 30px 2.5% 15px; }
   .post-content p {
     text-align: justify; }
+  .post-content div.post-keyword {
+    display: table;
+    margin: 0 auto 30px;
+    border-top: 2px solid #cf000f;
+    border-bottom: 1px solid #cf000f;
+    padding: 15px 15px; }
+    .post-content div.post-keyword h3 {
+      text-align: center; }
   .post-content p.source {
     color: #828282;
     text-align: center;

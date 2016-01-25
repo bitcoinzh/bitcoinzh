@@ -581,6 +581,18 @@ p.home-intro {
   p {
     text-align: justify;
   }
+
+  div.post-keyword {
+    display: table;
+    margin: 0 auto $spacing-unit;
+    border-top: 2px solid $red-color;
+    border-bottom: 1px solid $red-color;
+    padding: $spacing-unit/2 $spacing-unit/2;
+    h3 {
+      text-align: center;
+    }
+  }
+
   p.source {
     color: $grey-color;
     text-align: center;

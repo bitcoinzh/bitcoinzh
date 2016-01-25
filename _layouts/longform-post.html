@@ -16,6 +16,12 @@ layout: default
     <p class="intro-text">{{ page.description | prepend: 'BitcoinZH Introduction: ' }}</p>
     {{ content }}
 
+    {% if page.keyword %}
+    <div class="post-keyword">
+      <h3>Word of the Day</h3>
+      <p>{{ page.keyword }}</p>
+    </div>
+    {% endif %}
     {% include social-shares.html %}
     <a href="mailto:info@bitcoinzh.com?subject=BitcoinZH Translation Error {{ page.url | prepend: site.url }}"><p class="mistranslation-cta">See something inaccurate? Let us know.</p></a>
   </div>
