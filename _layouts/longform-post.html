@@ -13,7 +13,7 @@ layout: default
   </header>
 
   <div class="post-content" itemprop="articleBody">
-    <p class="longform-intro">{{ page.description | prepend: 'BitcoinZH Introduction: ' }}</p>
+    <p class="intro-text">{{ page.description | prepend: 'BitcoinZH Introduction: ' }}</p>
     {{ content }}
 
     {% include social-shares.html %}
@@ -21,3 +21,15 @@ layout: default
   </div>
 
 </article>
+
+<div class="pagination"</p>
+  {% if page.previous %}
+  <a class="button previous" href="{{ page.previous_page_path }}">Last Post</a>
+  {% else %}
+  {% endif %}
+
+  {% if page.next %}
+  <a class="button next" href="{{ page.next_page_path }}">Next Post</a>
+  {% else %}
+  {% endif %}
+</div>

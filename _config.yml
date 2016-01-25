@@ -10,8 +10,9 @@ url: https://bitcoinzh.com # the base hostname & protocol for your site
 enforce_ssl: bitcoinzh.com
 twitter_username: bitcoinzh
 github_username:  bitcoinzh
+bitcoin_address: 3QLvZUHuWDpq84tXaij2FAcgsm3ZjSccYk
 permalink: /:title
-paginate: 10
+paginate: 4
 paginate_path: /china-talks-bitcoin/:num
 
 # Gems

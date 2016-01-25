@@ -306,6 +306,7 @@ p.update-time {
   display: table;
   margin: 0 auto $spacing-unit;
   text-align: center;
+  clear: both;
 }
 
 /**
@@ -559,9 +560,15 @@ ul.requests-index {
   }
 }
 
-p.longform-intro {
+p.intro-text {
   padding: $spacing-unit/2 $spacing-unit;
   border-left: 2px solid $red-color;
+}
+
+p.home-intro {
+  max-width: 80%;
+  margin: 0 auto $spacing-unit;
+  font-weight: 700;
 }
 
 .post-content {
@@ -582,6 +589,19 @@ p.longform-intro {
   @include media-query($on-tablet) {
     padding-left: $spacing-unit;
   }
+}
+
+/**
+ * Pagination
+ */
+p.page-number {
+  text-align: center;
+}
+a.button.previous {
+  float: left;
+}
+a.button.next {
+  float: right;
 }
 
 /**

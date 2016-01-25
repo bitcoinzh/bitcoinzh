@@ -4,6 +4,8 @@ title: China Talks Bitcoin
 ---
 <h1 class="index-heading">China Talks Bitcoin</h1>
 
+{% if paginator.page == 1 %}<p class="intro-text home-intro">BitcoinZH features English translations of Bitcoin and Bitcoin Blockchain discussion in Chinese media</p>{% endif %}
+
 <ul class="post-list">
 {% for post in paginator.posts %}
   <a class="post-link" href="{{ post.url }}">
@@ -16,3 +18,15 @@ title: China Talks Bitcoin
   </a>
 {% endfor %}
 </ul>
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="button previous">Previous</a>
+    {% else %}
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="button next">Next</a>
+    {% else %}
+  {% endif %}
+</div>
