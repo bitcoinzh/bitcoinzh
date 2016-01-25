@@ -24,12 +24,12 @@ layout: default
 
 <div class="pagination"</p>
   {% if page.previous %}
-  <a class="button previous" href="{{ page.previous_page_path }}">Last Post</a>
+  <a class="button previous" href="{{ page.previous.url }}">Last Post</a>
   {% else %}
   {% endif %}
 
   {% if page.next %}
-  <a class="button next" href="{{ page.next_page_path }}">Next Post</a>
+  <a class="button next" href="{{ page.next.url }}">Next Post</a>
   {% else %}
   {% endif %}
 </div>
