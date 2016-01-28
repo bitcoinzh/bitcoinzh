@@ -12,6 +12,8 @@ keyword: 51%攻击 | 51% Gong Ji | 51% Attack
 
 About the author: I took an interest in Bitcoin and have held a few coins since early 2013, when under this username I began lurking around forums here and overseas. I wanted to say a few words about block expansion. This is the first time I've posted.
 
+![Proposal to 51% attack Bitcoin]({{ '/images/translations/hard-fork-then-51-attack-bitcoin/2016-01-27-hard-fork-then-51-attack-bitcoin.jpg' | prepend: site.url }})
+
 ###Foreward
 
 Yesterday on Reddit someone posted that for one core developer, Greg Maxwell, the main reason not to increase block size isn't bandwidth, it's because he thinks fees are too low.
