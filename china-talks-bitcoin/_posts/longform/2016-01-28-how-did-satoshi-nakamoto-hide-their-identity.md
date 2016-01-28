@@ -12,7 +12,7 @@ keyword: 密码学 Mi Ma Xue | Cryptography
 
 ![How did Satoshi remain anonymous]({{ '/images/translations/how-did-satoshi-nakamoto-hide-their-identity/2016-01-28-how-did-satoshi-nakamoto-hide-their-identity.jpg' | prepend: site.url }})
 
-In terms of cryptography, algorithms, economics and sociology, they were extremely advanced. There aren't many people could invent the Bitcoin protocol and code its client implentation. How could they, in the midst of a community, invent and develop Bitcoin and keep their identity hidden?
+In terms of cryptography, algorithms, economics and sociology, they were extremely high-level. There aren't many people could invent the Bitcoin protocol and code its client implentation. How could they, in the midst of a community, invent and develop Bitcoin and keep their identity hidden?
 
 The internet has developed into something so vast, it should be easy to find one person's identity. Perhaps when posting articles online, registering domain names, releasing software, etc. they kept their IP address well hidden, but in an everyday setting, there's no way something didn't slip. They just never interacted with other people nearby? Wouldn't the people nearby notice? After they noticed, wouldn't word start to spread?
 
