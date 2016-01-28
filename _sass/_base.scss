@@ -246,9 +246,8 @@ a {
  */
 blockquote {
     color: $grey-color;
-    border-left: 2px solid $grey-color-light;
+    border-left: 2px solid $text-color;
     padding: 0 $spacing-unit/2;
-    letter-spacing: -1px;
     max-width: 95%;
     margin: auto 2.5% $spacing-unit;
 
