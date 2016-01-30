@@ -5,12 +5,85 @@
     <description>China Talks Bitcoin</description>
     <link>https://bitcoinzh.com/</link>
     <atom:link href="https://bitcoinzh.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Jan 2016 20:30:36 +0000</pubDate>
-    <lastBuildDate>Sat, 30 Jan 2016 20:30:36 +0000</lastBuildDate>
+    <pubDate>Sat, 30 Jan 2016 23:15:54 +0000</pubDate>
+    <lastBuildDate>Sat, 30 Jan 2016 23:15:54 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Chinese response to Bitcoin Classic hard fork</title>
+        <title>Anyone using Bitcoin Classic?</title>
+        <description>&lt;h3 id=&quot;the-bitcoin-classic-codes-been-released-has-anyone-in-china-started-using-it&quot;&gt;The Bitcoin Classic code’s been released! Has anyone in China started using it?&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/has-anyone-upgraded-to-bitcoin-classic/2016-01-30-has-anyone-upgraded-to-bitcoin-classic.jpg&quot; alt=&quot;Who&#39;s upgraded to Bitcoin Classic?, original Chinese text from 8btc.com&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As the title says, the code is open sourced now, has anyone in China started using it? What’s the attitude of the big mining pools?&lt;/p&gt;
+
+&lt;p&gt;http://xtnodes.com/&lt;/p&gt;
+
+&lt;p&gt;You can see the number of nodes on each network on this website, and the number of blocks mined by miners on each network.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/has-anyone-upgraded-to-bitcoin-classic/2016-01-30-has-anyone-upgraded-to-bitcoin-classic-2.jpg&quot; alt=&quot;Who&#39;s upgraded to Bitcoin Classic?, response from ls-a&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ls-a&quot;&gt;ls-a:&lt;/h3&gt;
+
+&lt;p&gt;…the official Classic site is at https://bitcoinclassic.com/, I certainly haven’t started using it. The link you posted is to XT nodes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/has-anyone-upgraded-to-bitcoin-classic/2016-01-30-has-anyone-upgraded-to-bitcoin-classic-3.jpg&quot; alt=&quot;Who&#39;s upgraded to Bitcoin Classic?, response from 8doge.com&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;dogecom&quot;&gt;8doge.com:&lt;/h3&gt;
+
+&lt;p&gt;Gavin’s sticking to his guns. He won’t support the 90% consensus/2MB proposal by our mining industry, and even puts out his own fork that, with just 75% consensus, risks dividing the network just like XT did.&lt;/p&gt;
+
+&lt;p&gt;So it seems Chinese mining pools are resisting him until he joins in their support for 90% consensus and 2MB blocks.&lt;/p&gt;
+
+&lt;p&gt;The address OP gave was just fine:&lt;/p&gt;
+
+&lt;p&gt;405 XT nodes     113 BU nodes     48 Classic nodes     4896 Other nodes&lt;/p&gt;
+
+&lt;p&gt;The latter includes votes cast from QT nodes.&lt;/p&gt;
+
+&lt;p&gt;http://bitQT.com&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/has-anyone-upgraded-to-bitcoin-classic/2016-01-30-has-anyone-upgraded-to-bitcoin-classic-4.jpg&quot; alt=&quot;Who&#39;s upgraded to Bitcoin Classic?, response from Shui Wu Hun&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;shui-wu-hun&quot;&gt;Shui Wu Hun:&lt;/h3&gt;
+
+&lt;p&gt;I’m waiting for a Windows client then I’ll install it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/has-anyone-upgraded-to-bitcoin-classic/2016-01-30-has-anyone-upgraded-to-bitcoin-classic-5.jpg&quot; alt=&quot;Who&#39;s upgraded to Bitcoin Classic?, response from bluestar&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;bluestar&quot;&gt;bluestar:&lt;/h3&gt;
+
+&lt;p&gt;The number of nodes upgrading is pretty quick, 50 in one day:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/has-anyone-upgraded-to-bitcoin-classic/2016-01-30-has-anyone-upgraded-to-bitcoin-classic-6.jpg&quot; alt=&quot;Who&#39;s upgraded to Bitcoin Classic?, nodes running Bitcoin Classic chart&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/has-anyone-upgraded-to-bitcoin-classic/2016-01-30-has-anyone-upgraded-to-bitcoin-classic-7.jpg&quot; alt=&quot;Who&#39;s upgraded to Bitcoin Classic?, response from bincoin&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;bincoin&quot;&gt;bincoin:&lt;/h3&gt;
+
+&lt;p&gt;Putting this out there may well be the only way to accurately test the truth.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/has-anyone-upgraded-to-bitcoin-classic/2016-01-30-has-anyone-upgraded-to-bitcoin-classic-8.jpg&quot; alt=&quot;Who&#39;s upgraded to Bitcoin Classic?, response from Bi Te Chui&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;bi-te-chui&quot;&gt;比特吹 | Bi Te Chui:&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“The number of nodes upgrading is pretty quick, 50 in one day”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Individual nodes aren’t worth looking at. Firstly, they’re providing very little in terms of costs, and secondly they could just be imitating Classic nodes. Even if Classic passes Core in support, we still won’t know exactly which user is using which version.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+        <link>https://bitcoinzh.com/has-anyone-upgraded-to-bitcoin-classic</link>
+        <guid isPermaLink="true">https://bitcoinzh.com/has-anyone-upgraded-to-bitcoin-classic</guid>
+        
+        
+        <category>china-talks-bitcoin</category>
+        
+      </item>
+    
+      <item>
+        <title>China responds to Bitcoin Classic</title>
         <description>&lt;h3 id=&quot;gavin-today-released-his-2mb-block-upgrade-bip-75-consensus-required&quot;&gt;Gavin today released his 2MB block upgrade BIP, 75% consensus required&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/chinese-response-to-bitcoin-classic-hard-fork/2016-01-30-chinese-response-to-bitcoin-classic-hard-fork.jpg&quot; alt=&quot;Chinese response to Bitcoin Classic hard fork, original Chinese text from 8btc.com&quot; /&gt;&lt;/p&gt;
@@ -117,7 +190,7 @@
 
 &lt;p&gt;After a hard fork, continuing to abandon the old client and mining will cost a fortune, revenue will drop by three quarters.&lt;/p&gt;
 
-&lt;p&gt;It’s not easy to just return the mining hardware you’ve bought yourself. Do you think those 26% are just idiots who’d rather jump off a cliff to a hard fork with three quarters less network power, so also less secure, and when the price inevitably will fall? Then why do you think they’re insisting?&lt;/p&gt;
+&lt;p&gt;It’s not easy to just return the mining hardware you’ve bought. Do you think those 26% are just idiots who’d rather jump off a cliff to a hard fork with three quarters less network power, so also less secure, and when the price inevitably will fall? Then why do you think they’re insisting?&lt;/p&gt;
 
 &lt;p&gt;The reason they buy the hardware is to make money mining. If it wasn’t for the money, they wouldn’t do it.&lt;/p&gt;
 
@@ -1120,50 +1193,6 @@ Foreceast: Stalemate for a while. Classic supporters aren’t willing to undergo
         <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
         <link>https://bitcoinzh.com/haobtc-blocksize-debate</link>
         <guid isPermaLink="true">https://bitcoinzh.com/haobtc-blocksize-debate</guid>
-        
-        
-        <category>china-talks-bitcoin</category>
-        
-      </item>
-    
-      <item>
-        <title>Shanghai Blockchain Hackathon</title>
-        <description>&lt;h3 id=&quot;blockchain-techs-profound-impact-on-financial-sector&quot;&gt;Blockchain Tech’s Profound Impact on Financial Sector&lt;/h3&gt;
-&lt;p&gt;Tl;dr: Over twenty geeks from around the world came to take part in the Shanghai Blockchain Hackathon. Although the blockchain is widely perceived to be in an early development phase, within 48 hours a number of practically useful applications were delivered according to plan. Whether in logistics systems or humanitarian medicine, intelligent asset management hardware or video supply chains, even random number generation, the innovative ideas presented an eye-opening experience for everyone in attendance.&lt;/p&gt;
-
-&lt;p&gt;The hackathon, which took place from 1/8/16 to 1/10/16, was a milestone in China. It offered corporations and developers direct experience of the blockchain development flow at a historically opportune moment.&lt;/p&gt;
-
-&lt;p&gt;Deloitte and Wanxiang Blockchain Labs partnered to organize this meeting of blockchain developers and enthusiasts. The participants were divided into small groups for a period of two days, sent to bang their heads together and create blockchain applications. The projects were then presented with a focus on design and development processes.&lt;/p&gt;
-
-&lt;p&gt;Representatives from Deloittes global cryptocurrency team and Wanxiang Blockchain Labs were on hand to offer mentorship to all participants. As each team presented their original applications, they were in with a chance of winning up to a generous $10,000 in prizes.&lt;/p&gt;
-
-&lt;p&gt;From 1/6/16 to 1/11/16, cryptocurrency experts from Deloitte’s Innovation Labs in the US, Canada and Ireland and, along with their colleagues in China, organized a series of blockchain events in Shenzhen, Shanghai and Beijing in the run up to the main event. These included a series of lectures, exclusive blockchain application research and training events. On the afternoon of 8 January, in an exclusive meeting led by Ms Yi Qing，Blockchain Project Manager at Deloitte Innovation Labs, Deloitte’s Chief Economist and Senior Cloud Engineers were at hand for a comprehensive presentation of blockchain workflows present and future.&lt;/p&gt;
-
-&lt;p&gt;When we talk about ‘internet’ and ‘cloud tech’, what do we really mean? When we talk about disrupting the assets industry, what do we really mean? When what we are discussing is let loose on the current financial sector, what kind of sparks will it ignite? These questions all point to a single answer - blockchain technology. The blockchain, through a form of decentralization, collectively creates and defends a persistent database. This offers potential strategic directions to the financial sector, thereby attracting the attention of executives and investors across the globe.&lt;/p&gt;
-
-&lt;p&gt;According to a study by Magister Advisor, total investment by the banking sector into blockchain development in 2016 will be in excess of US$1bn. This represents the fastest development of any field of software. 9 top-class global banks including Barclays, Credit Suisse and Morgan Stanley have already joined an organization led by R3, aiming to set out standards and protocols for blockchain technology within the banking sector. On 30 Dec, 2015, NASDAQ completed the first securities transaction on a blockchain platform, a significant milestone in the decentralization of financial markets.&lt;/p&gt;
-
-&lt;p&gt;In essence, blockchain technology is one which uses a distributed network of computer nodes to maintain a shared source of information. As each node keeps a copy of the full historical record of the database,  they contribute to protecting the integrity and accuracy of the data. Viewed through the prism of financial information, this means each node keeps a full copy of the distributed ledger, including the full transaction history of all network participants. As the copy held by each node is immutable, the totality of information can be trusted.&lt;/p&gt;
-
-&lt;p&gt;At the same time, the encryption of blockchain data maintains its security - all transactions are recorded in this encrypted state, including time, date and ID. Once recorded on the ledger, the transaction cannot be deleted, undone or amended. Although all participants hold a full encrypted database, their private keys only enable them to browse information related to their transactions.&lt;/p&gt;
-
-&lt;p&gt;Before any transaction is recorded on the distributed database, it will undergo highly complex checks and verifications. The network is continuously monitored by its participating nodes, who receive regular updates on its status, thereby ensuring consistency and eliminating any source of risk. Because every node can identify and refuse to merge into the database any corrupted transaction data, blockchain technology itself really is capable of eliminating any corrupted data.&lt;/p&gt;
-
-&lt;p&gt;Through real-time monitoring, this innovative design ensures data is not tampered with, offering participants and interested parties a single source of truth. The blockchain is without doubt the only technology that doesn’t depend on intermediaries or third parties, but only its own ledger to show consistency of transaction verifications and accuracy of corporate finances.&lt;/p&gt;
-
-&lt;p&gt;Deloitte’s global cryptocurrency team, part of Deloitte Digital, counts over 100 members all devoted to researching how to use technology to raise standards of service, and exploring blockchain-based solutions for its customers. They are bringing together several leading engineering schools such as MIT, and diverse blockchain development teams to establish strategic partnerships. Deloitte’s focus on the utility of blockchain technology is not only to drive efficiencies for its clients, but also for Deloitte itself. Deloitte’s blockchain platform, Rubix, is the cutting edge of its Deloitte Digital consultancy service, taking advantage of the blockchain’s most avant-garde technology and use cases.&lt;/p&gt;
-
-&lt;h3 id=&quot;rubix&quot;&gt;RUBIX&lt;/h3&gt;
-
-&lt;p&gt;Deloitte Rubix was the first team created exclusively to research the use of blockchain technology in the financial sector, using its most avant-garde technology, business models and global development supplier databases. It has already, in partnership with institutionally significant banks, developed several blockchain-based applications for the financial services sector. Outside the financial sector, the Rubix team has also developed almost 30 applications for corporate planning， some at proof of concept stage and some already in practical use.&lt;/p&gt;
-
-&lt;p&gt;Among the applications designed by Rubix, Deloitte’s Perma Rec blockchain application technology stands out. It’s a globally distributed ledger, which through financial reporting systems such as SAP and Oracle, increases transparency in buy-sell transaction flows. Finally, auditors can also use it for real-time data calls to achieve 360-degree operational status and automatize tax and compliance reporting, benefitting both clients and internal regulators.&lt;/p&gt;
-
-&lt;p&gt;As Deloitte’s China Eastern Regional Managing Partner, Mr Patrick Tsang, points out, this hackathon is just a starting point. All kinds of ideas based on disruptive blockchain technology are provoking keen interest, and in the foreseeable future will have a profound influence on a large number of industries within the financial sector, creating opportunities for cooperation across different areas of expertise, increasing efficiencies in resource deployment and assisting in corporate transformations. Whether by enthusiastic adoption or passive acceptance, it will upset the status quo in all kinds of industries.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
-        <link>https://bitcoinzh.com/shanghai-blockchain-hackathon</link>
-        <guid isPermaLink="true">https://bitcoinzh.com/shanghai-blockchain-hackathon</guid>
         
         
         <category>china-talks-bitcoin</category>
