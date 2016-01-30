@@ -1,7 +1,7 @@
 ---
 layout: longform-post
 title: "China responds to Bitcoin Classic"
-description: Disappointment with Gavin's failure to support the Chinese 90%/2MB proposal, and offense by his accusations of miner centralization mark a lukewarm response to Bitcoin Classic on 8btc.com
+description: Disappointment with Gavin's failure to support the Chinese 90%/2MB proposal, and offense caused by his concerns around miner centralization mark a lukewarm response to Bitcoin Classic on 8btc.com
 translator: "Damian O'Loan"
 source_url: http://8btc.com/thread-28594-1-1.html
 source_site: 8btc.com
@@ -101,7 +101,7 @@ What kind of thing do you think drives 26% of users to leave the old chain?
 
 After a hard fork, continuing to abandon the old client and mining will cost a fortune, revenue will drop by three quarters.
 
-It's not easy to just return the mining hardware you've bought yourself. Do you think those 26% are just idiots who'd rather jump off a cliff to a hard fork with three quarters less network power, so also less secure, and when the price inevitably will fall? Then why do you think they're insisting?
+It's not easy to just return the mining hardware you've bought. Do you think those 26% are just idiots who'd rather jump off a cliff to a hard fork with three quarters less network power, so also less secure, and when the price inevitably will fall? Then why do you think they're insisting?
 
 The reason they buy the hardware is to make money mining. If it wasn't for the money, they wouldn't do it.
 
