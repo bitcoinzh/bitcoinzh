@@ -1,6 +1,6 @@
 ---
 layout: longform-post
-title: "Chinese response to Bitcoin Classic hard fork"
+title: "China responds to Bitcoin Classic"
 description: Disappointment with Gavin's failure to support the Chinese 90%/2MB proposal, and offense by his accusations of miner centralization mark a lukewarm response to Bitcoin Classic on 8btc.com
 translator: "Damian O'Loan"
 source_url: http://8btc.com/thread-28594-1-1.html
