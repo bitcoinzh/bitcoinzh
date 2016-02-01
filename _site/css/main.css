@@ -544,6 +544,10 @@ div.social-shares {
 ul.post-list {
   margin-left: 0;
   list-style: none; }
+  ul.post-list a li, ul.post-list div.img-mask {
+    -webkit-transition: all 0.33s ease;
+    -moz-transition: all 0.33s ease;
+    transition: all 0.33s ease; }
   ul.post-list a li {
     position: relative;
     margin: 0 auto 30px; }
@@ -553,8 +557,8 @@ ul.post-list {
       left: 5%;
       width: 90%;
       height: 100%;
-      background: #3f3f3f;
-      opacity: 0.4;
+      background: #111;
+      opacity: 0.8;
       z-index: 2; }
     ul.post-list a li h2 {
       position: absolute;
@@ -563,7 +567,7 @@ ul.post-list {
       right: 30%;
       color: #cf000f;
       background: #fdfdfd;
-      opacity: 0.8;
+      opacity: 0.75;
       -webkit-transition: all 0.5s ease;
       -moz-transition: all 0.5s ease;
       transition: all 0.5s ease;
@@ -576,7 +580,7 @@ ul.post-list {
       left: 10%;
       color: #cf000f;
       background: #fdfdfd;
-      opacity: 0.8;
+      opacity: 0.75;
       z-index: 3;
       padding: 0 .5rem;
       overflow: hidden; }
@@ -596,7 +600,9 @@ ul.post-list {
       ul.post-list a li span.index-meta {
         font-size: 1.4rem; } }
   ul.post-list a li:hover h2 {
-    border-bottom: 2px solid #cf000f; }
+    border-bottom: 4px solid #cf000f; }
+  ul.post-list a li:hover div.img-mask {
+    opacity: 0.85; }
 
 .post-meta {
   font-size: 1.75rem;
