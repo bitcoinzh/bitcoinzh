@@ -9,6 +9,7 @@ img-path: /images/translations/what-is-a-blockchain/2016-01-11-what-is-a-blockch
 keyword: 区块链 Qu Kuai Lian ｜ Blockchain
 unique: true
 ---
+
 ###chehw_1:
 
 The blockchain was invented by Satoshi Nakamoto.

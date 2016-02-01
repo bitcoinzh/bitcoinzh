@@ -8,6 +8,7 @@ source_site: tmtpost.com
 img-path: /images/translations/death-of-bitcoin-conspiracy/2016-01-17-death-of-bitcoin-conspiracy.jpg
 keyword: 阴谋论 Yin Mou Lun | Conspiracy
 ---
+
 ###The "death of Bitcoin" is a legacy banking conspiracy theory
 ![Tmtpost on Mike Hearn's death of Bitcoin announcement]({{ '/images/translations/death-of-bitcoin-conspiracy/2016-01-17-death-of-bitcoin-conspiracy.jpg' | prepend: site.url }})
 

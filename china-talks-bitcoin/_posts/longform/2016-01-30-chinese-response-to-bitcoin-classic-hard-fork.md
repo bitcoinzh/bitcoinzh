@@ -8,6 +8,7 @@ source_site: 8btc.com
 img-path: /images/translations/chinese-response-to-bitcoin-classic-hard-fork/2016-01-30-chinese-response-to-bitcoin-classic-hard-fork.jpg
 keyword: 政治 | Zheng Zhi | Politics
 ---
+
 ###Gavin today released his 2MB block upgrade BIP, 75% consensus required
 
 ![Chinese response to Bitcoin Classic hard fork, original Chinese text from 8btc.com]({{ '/images/translations/chinese-response-to-bitcoin-classic-hard-fork/2016-01-30-chinese-response-to-bitcoin-classic-hard-fork.jpg' | prepend: site.url }})

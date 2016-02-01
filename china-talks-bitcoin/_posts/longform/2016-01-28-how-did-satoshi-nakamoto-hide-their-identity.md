@@ -8,6 +8,7 @@ source_site: Zhihu.com
 img-path: /images/translations/how-did-satoshi-nakamoto-hide-their-identity/2016-01-28-how-did-satoshi-nakamoto-hide-their-identity.jpg
 keyword: 密码学 Mi Ma Xue | Cryptography
 ---
+
 ###How did Satoshi Nakamoto manage to conceal their identity on the all-seeing, all-knowing internet?
 
 ![How did Satoshi hide their identity? Original Chinese text.]({{ '/images/translations/how-did-satoshi-nakamoto-hide-their-identity/2016-01-28-how-did-satoshi-nakamoto-hide-their-identity.jpg' | prepend: site.url }})

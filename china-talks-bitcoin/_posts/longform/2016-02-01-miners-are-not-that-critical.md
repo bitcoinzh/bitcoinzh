@@ -6,8 +6,9 @@ translator: "Damian O'Loan"
 source_url: https://bikeji.com/t/3196#reply75
 source_site: Bikeji.com
 img-path: /images/translations/miners-are-not-that-critical/2016-02-01-miners-are-not-that-critical.jpg
-keyword:
+keyword: 责任 | Ze Ren | Responsibilities
 ---
+
 ###Miners's aren't as critical as you think
 
 ![Miners aren't that critical, original Chinese text from Bikeji.com]({{ '/images/translations/miners-are-not-that-critical/2016-02-01-miners-are-not-that-critical.jpg' | prepend: site.url }})

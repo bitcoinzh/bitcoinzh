@@ -8,6 +8,7 @@ source_site: bikeji.com
 img-path: /images/translations/the-choices-facing-bitcoin-miners/2016-01-22-the-choices-facing-bitcoin-miners.jpg
 keyword: 矿池 | Kuang Chi | Mining Pool
 ---
+
 ###[The key choices facing Bitcoin] A Request to All BTC Holders to Support Expansion to 2MB
 Author: ltc1btc mining pool founder, Jiang Zhou Er
 Declared Interests: Bitcoin / Litecoin mining, currency holder

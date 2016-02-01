@@ -8,6 +8,7 @@ source_site: Bikeji.com
 img-path: /images/translations/hard-fork-then-51-attack-bitcoin/2016-01-27-hard-fork-then-51-attack-bitcoin.jpg
 keyword: 51%攻击 | 51% Gong Ji | 51% Attack
 ---
+
 ###Core devs aren't refusing block size increase due to bandwidth, it's to add fees
 
 About the author: I took an interest in Bitcoin and have held a few coins since early 2013, when under this username I began lurking around forums here and overseas. I wanted to say a few words about block expansion. This is the first time I've posted.

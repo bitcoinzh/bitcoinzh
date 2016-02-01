@@ -8,6 +8,7 @@ source_site: 8btc.com
 img-path: /images/translations/chinese-proposal-to-reconcile-bitcoin/2016-01-24-chinese-proposal-to-reconcile-bitcoin.jpg
 keyword: 共识 | Gong Shi | Consensus
 ---
+
 ###Bitcoin community reaches 90/2 consensus: Supports 2MB blocks, rejects any fork with less than 90% consensus.
 
 Author: ltc1btc mining pool founder, Jiang Zhou Er

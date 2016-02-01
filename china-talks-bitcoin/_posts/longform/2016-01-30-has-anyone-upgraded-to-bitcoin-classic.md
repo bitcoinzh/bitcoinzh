@@ -8,6 +8,7 @@ source_site: 8btc.com
 img-path: /images/translations/has-anyone-upgraded-to-bitcoin-classic/2016-01-30-has-anyone-upgraded-to-bitcoin-classic.jpg
 keyword: 节点 | Jie Dian | Node
 ---
+
 ###The Bitcoin Classic code's been released! Has anyone in China started using it?
 
 ![Who's upgraded to Bitcoin Classic?, original Chinese text from 8btc.com]({{ '/images/translations/has-anyone-upgraded-to-bitcoin-classic/2016-01-30-has-anyone-upgraded-to-bitcoin-classic.jpg' | prepend: site.url }})

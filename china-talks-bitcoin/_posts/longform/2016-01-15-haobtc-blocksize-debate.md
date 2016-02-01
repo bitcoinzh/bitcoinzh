@@ -8,6 +8,7 @@ source_site: bikeji.com
 img-path: /images/translations/haobtc-block-size-debate/2016-01-15-haobtc-block-size-debate.jpg
 keyword: 算历 Suan Li | Computer Processing Power
 ---
+
 ###Haobtc is striving for more network power, supports Bitcoin, supports blocksize expansion
 
 ![Haobtc on the block size debate]({{ '/images/translations/haobtc-block-size-debate/2016-01-15-haobtc-block-size-debate.jpg' | prepend: site.url }})

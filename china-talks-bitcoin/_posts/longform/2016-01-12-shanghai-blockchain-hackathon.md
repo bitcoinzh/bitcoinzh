@@ -8,6 +8,7 @@ source_site: btc123.com
 img-path: /images/translations/shanghai-blockchain-hackathon/2016-01-11-shanghai-blockchain-hackathon.jpg
 keyword: 黑客马拉松 Hei Ke Ma La Song | Hackathon
 ---
+
 ###Blockchain Tech's Profound Impact on Financial Sector
 Tl;dr: Over twenty geeks from around the world came to take part in the Shanghai Blockchain Hackathon. Although the blockchain is widely perceived to be in an early development phase, within 48 hours a number of practically useful applications were delivered according to plan. Whether in logistics systems or humanitarian medicine, intelligent asset management hardware or video supply chains, even random number generation, the innovative ideas presented an eye-opening experience for everyone in attendance.
 

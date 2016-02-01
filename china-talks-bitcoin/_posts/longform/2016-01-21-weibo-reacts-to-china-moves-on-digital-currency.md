@@ -8,6 +8,7 @@ source_site: weibo.com
 img-path: /images/translations/china-to-issue-digital-currency/2016-01-21-china-to-issue-digital-currency.jpg
 keyword: 数字货币 | Shu Zi Huo Bi | Digital Currency
 ---
+
 ###Official PBoC weibo annoucement:
 
 ![China to issue digital currency, official announcement on Weibo]({{ '/images/translations/china-to-issue-digital-currency/2016-01-21-china-to-issue-digital-currency-2.jpg' | prepend: site.url }})

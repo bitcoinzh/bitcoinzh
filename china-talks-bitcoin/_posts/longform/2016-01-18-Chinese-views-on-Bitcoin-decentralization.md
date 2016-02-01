@@ -8,6 +8,7 @@ source_site: zhihu.com
 img-path: /images/translations/chinese-views-on-bitcoin-decentralization/2016-01-18-chinese-views-on-bitcoin-decentralization.jpg
 keyword:
 ---
+
 ###"Core developer announces Bitcoin's failure and sells bitcoin. Now Bitcoin is controlled by China." How do you see it?
 
 ![Chinese concerns around Bitcoin decentralization]({{ '/images/translations/chinese-views-on-bitcoin-decentralization/2016-01-18-chinese-views-on-bitcoin-decentralization.jpg' | prepend: site.url }})
