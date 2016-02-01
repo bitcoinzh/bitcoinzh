@@ -1,7 +1,7 @@
 ---
 layout: longform-post
 title: "Miners aren't that critical"
-description: "A calm assessment of the rights & responsibilities of Bitcoin stakeholders from Bikeji.com. The Antpool and Slush Pool announcements didn't dominate Chinese forums at all today. People may be on the move already for the 年运 trip home!"
+description: "A calm assessment of the rights & responsibilities of Bitcoin stakeholders from Bikeji.com. The Antpool and Slush Pool announcements didn't dominate Chinese forums at all today. People may be on the move already for the 春运 trip home!"
 translator: "Damian O'Loan"
 source_url: https://bikeji.com/t/3196#reply75
 source_site: Bikeji.com
