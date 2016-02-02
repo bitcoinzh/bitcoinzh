@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://bitcoinzh.com/where-do-you-store-private-keys</loc>
+    <lastmod>2016-02-02T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>https://bitcoinzh.com/miners-are-not-that-critical</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
   </url>
@@ -62,18 +66,69 @@
     <loc>https://bitcoinzh.com/</loc>
   </url>
   <url>
-    <loc>https://bitcoinzh.com/pages/workflow-zh.html</loc>
+    <loc>https://bitcoinzh.com/pages/workflow-zh</loc>
   </url>
   <url>
-    <loc>https://bitcoinzh.com/pages/workflow.html</loc>
+    <loc>https://bitcoinzh.com/pages/workflow</loc>
   </url>
   <url>
-    <loc>https://bitcoinzh.com/requests/chinese-english/chinese-request.html</loc>
+    <loc>https://bitcoinzh.com/china-talks-bitcoin/2/</loc>
   </url>
   <url>
-    <loc>https://bitcoinzh.com/requests/english-chinese/a-sample-request.html</loc>
+    <loc>https://bitcoinzh.com/china-talks-bitcoin/3/</loc>
   </url>
   <url>
-    <loc>https://bitcoinzh.com/requests/</loc>
+    <loc>https://bitcoinzh.com/china-talks-bitcoin/4/</loc>
   </url>
+    <url>
+      <loc>https://bitcoinzh.com/requests/chinese-english/chinese-request</loc>
+    </url>
+    <url>
+      <loc>https://bitcoinzh.com/requests/english-chinese/a-sample-request</loc>
+    </url>
+    <url>
+      <loc>https://bitcoinzh.com/requests/index</loc>
+    </url>
+    <url>
+      <loc>https://bitcoinzh.com/what-is-a-blockchain</loc>
+    </url>
+    <url>
+      <loc>https://bitcoinzh.com/shanghai-blockchain-hackathon</loc>
+    </url>
+    <url>
+      <loc>https://bitcoinzh.com/haobtc-blocksize-debate</loc>
+    </url>
+    <url>
+      <loc>https://bitcoinzh.com/death-of-bitcoin-legacy-banking-conspiracy</loc>
+    </url>
+    <url>
+      <loc>https://bitcoinzh.com/Chinese-views-on-Bitcoin-decentralization</loc>
+    </url>
+    <url>
+      <loc>https://bitcoinzh.com/weibo-reacts-to-china-moves-on-digital-currency</loc>
+    </url>
+    <url>
+      <loc>https://bitcoinzh.com/the-choices-facing-bitcoin-miners</loc>
+    </url>
+    <url>
+      <loc>https://bitcoinzh.com/Chinese-proposal-to-reconcile-Bitcoin</loc>
+    </url>
+    <url>
+      <loc>https://bitcoinzh.com/are-small-blocks-a-plan-for-fees</loc>
+    </url>
+    <url>
+      <loc>https://bitcoinzh.com/how-did-satoshi-nakamoto-hide-their-identity</loc>
+    </url>
+    <url>
+      <loc>https://bitcoinzh.com/chinese-response-to-bitcoin-classic-hard-fork</loc>
+    </url>
+    <url>
+      <loc>https://bitcoinzh.com/has-anyone-upgraded-to-bitcoin-classic</loc>
+    </url>
+    <url>
+      <loc>https://bitcoinzh.com/miners-are-not-that-critical</loc>
+    </url>
+    <url>
+      <loc>https://bitcoinzh.com/where-do-you-store-private-keys</loc>
+    </url>
 </urlset>

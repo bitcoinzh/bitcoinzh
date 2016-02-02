@@ -5,9 +5,174 @@
     <description>China Talks Bitcoin</description>
     <link>https://bitcoinzh.com/</link>
     <atom:link href="https://bitcoinzh.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Feb 2016 22:01:13 +0000</pubDate>
-    <lastBuildDate>Mon, 01 Feb 2016 22:01:13 +0000</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <pubDate>Tue, 02 Feb 2016 18:50:10 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Feb 2016 18:50:10 +0000</lastBuildDate>
+    <generator>Jekyll v3.0.2</generator>
+    
+      <item>
+        <title>Where do you store private keys?</title>
+        <description>&lt;p&gt;&lt;strong&gt;You put your private keys on a memory stick. Where do you put the memory stick?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a question worthy of research…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys.jpg&quot; alt=&quot;Where do you store your private keys?, original Chinese poll from 8btc.com&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A safe&lt;/strong&gt;: 23.81%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The toilet&lt;/strong&gt;: 6.67%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The ceiling&lt;/strong&gt;: 6.67%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Under the bed&lt;/strong&gt;: 6.67%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;In a wallet&lt;/strong&gt;: 14.29%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;In a shoe sole&lt;/strong&gt;: 9.52%&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Other&lt;/strong&gt;: 32.38%&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-2.jpg&quot; alt=&quot;Where do you store your private keys?, response by A Pa&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-pa&quot;&gt;A Pa:&lt;/h3&gt;
+
+&lt;p&gt;Should be multi-select, I do a few.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-3.jpg&quot; alt=&quot;Where do you store your private keys?, response by sunary100&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;sunary100&quot;&gt;sunary100:&lt;/h3&gt;
+
+&lt;p&gt;I’m more worried about what happens if the memory stick breaks.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-4.jpg&quot; alt=&quot;Where do you store your private keys?, response y A Pa&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“I’m more worried about what happens if the memory stick breaks.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I do a few, if your wallet software generates backup keys. Make a note of it, print a paper wallet backup or use a brainwallet.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-5.jpg&quot; alt=&quot;Where do you store your private keys?, response by Little Ant&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;little-ant&quot;&gt;小蚂蚁 Little Ant:&lt;/h3&gt;
+
+&lt;p&gt;Memory sticks break so put them on at least three different online cloud storage services, not only within China.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-6.jpg&quot; alt=&quot;Where do you store your private keys?, response by aione110&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;aione110&quot;&gt;aione110:&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“memory sticks break so put them on at least three different online cloud storage services, not only within China.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I don’t really trust uploading encryption keys to a cloud storage provider.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-6.jpg&quot; alt=&quot;Where do you store your private keys?, response by sunary100&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;sunary100-1&quot;&gt;sunary100:&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“I don’t really trust uploading my encryption keys to a cloud storage provider.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Put a little bit on each one, all mixed up.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-7.jpg&quot; alt=&quot;Where do you store your private keys?, response by aione110&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;aione110-1&quot;&gt;aione110:&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Put a little bit on each one, all mixed up.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I put a few like that on Baidu Cloud, they were all sealed. There’s no privacy at all.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-8.jpg&quot; alt=&quot;Where do you store your private keys?, response by sunary100&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;sunary100-2&quot;&gt;sunary100:&lt;/h3&gt;
+
+&lt;p&gt;This was done with a script, someone reported a similar script and now they don’t work.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-9.jpg&quot; alt=&quot;Where do you store your private keys?, response by aione110&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;aione110-2&quot;&gt;aione110:&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“This was done with a script, someone reported a similar script and now they don’t work.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I don’t really understand this.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-10.jpg&quot; alt=&quot;Where do you store your private keys?, response by sunary100&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;sunary100-3&quot;&gt;sunary100:&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“I don’t really understand this.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;All you need to know is you won’t have any trouble.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-11.jpg&quot; alt=&quot;Where do you store your private keys?, response by ALL-IN&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;all-in&quot;&gt;ALL-IN:&lt;/h3&gt;
+
+&lt;p&gt;I give the memory stick to the wife.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-12.jpg&quot; alt=&quot;Where do you store your private keys?, response by jsyzgaoyou&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;jsyzgaoyou&quot;&gt;jsyzgaoyou:&lt;/h3&gt;
+
+&lt;p&gt;Just in a drawer, split into a few different places.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-13.jpg&quot; alt=&quot;Where do you store your private keys?, response by Dogecoin-Keeper&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;dogecoin-keeper&quot;&gt;Dogecoin-Keeper:&lt;/h3&gt;
+
+&lt;p&gt;Put it inside the bookcase.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-14.jpg&quot; alt=&quot;Where do you store your private keys?, response by aione110&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;aione110-3&quot;&gt;aione110:&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Compress them with RAR, split the private keys into three files, A, B and C. Keep the pass phrase with my phone numbers. Put the three RAR files on different cloud providers…”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is awesome, much respect.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-15.jpg&quot; alt=&quot;Where do you store your private keys?, response by 2061628027&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;2061628027:&lt;/h3&gt;
+
+&lt;p&gt;They’re most secure on your computer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-16.jpg&quot; alt=&quot;Where do you store your private keys?, response by A Pa&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-pa-1&quot;&gt;A Pa:&lt;/h3&gt;
+
+&lt;p&gt;Are you sure? Don’t be misleading the noobs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-17.jpg&quot; alt=&quot;Where do you store your private keys?, response by bilibili92&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;bilibili92&quot;&gt;bilibili92:&lt;/h3&gt;
+
+&lt;p&gt;Put the compressed private keys onto a memory stick or GDrive, keep the paper backup in your wallet.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-18.jpg&quot; alt=&quot;Where do you store your private keys?, response by wangyisong72&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;wangyisong72&quot;&gt;wangyisong72:&lt;/h3&gt;
+
+&lt;p&gt;In a bank vault.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
+        <link>https://bitcoinzh.com/where-do-you-store-private-keys</link>
+        <guid isPermaLink="true">https://bitcoinzh.com/where-do-you-store-private-keys</guid>
+        
+        
+        <category>china-talks-bitcoin</category>
+        
+      </item>
     
       <item>
         <title>Miners aren&#39;t that critical</title>
@@ -1080,76 +1245,6 @@ Foreceast: Stalemate for a while. Classic supporters aren’t willing to undergo
         <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
         <link>https://bitcoinzh.com/Chinese-views-on-Bitcoin-decentralization</link>
         <guid isPermaLink="true">https://bitcoinzh.com/Chinese-views-on-Bitcoin-decentralization</guid>
-        
-        
-        <category>china-talks-bitcoin</category>
-        
-      </item>
-    
-      <item>
-        <title>Hearn: a global embarrassment to banking</title>
-        <description>&lt;h3 id=&quot;the-death-of-bitcoin-is-a-legacy-banking-conspiracy-theory&quot;&gt;The “death of Bitcoin” is a legacy banking conspiracy theory&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/death-of-bitcoin-conspiracy/2016-01-17-death-of-bitcoin-conspiracy.jpg&quot; alt=&quot;Tmtpost on Mike Hearn&#39;s death of Bitcoin announcement&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;New York, 1/15 Beijing Time, the Federal Reserve organized a meeting under the theme “Beyond Bitcoin.” One half of those attending were representatives of the Federal Reserve, the other half representatives of major banks and the blockchain tech company supported by those major banks, R3CEV. During the meeting, the R3CEV spokesperson expressed his views:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“R3CEV programmer Mike [Hearn] was originally an agreed member of the Bitcoin Core development team. He says the Bitcoin experiment has failed.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The airing of these views in the New York Times under the headline “A Bitcoin Believer’s Crisis of Faith”, led to widespread agitation in public sentiment as efforts to understand the impact of the news led to a drop in the Bitcoin price from CNY 2850元 to CNY 2350元.&lt;/p&gt;
-
-&lt;p&gt;And yet the views are neither complete nor factual. As senior entrepreneurs and observers on the Bitcoin industry, we can inform everyone of the real principles underlying collaboration in the Bitcoin community. In a nutshell, this controversy appears on the surface as one between Bitcoin radicals and conservatives, whereas in fact it is an attack on Bitcoin spearheaded by major banks on behalf of the legacy banking sector, with the Bitcoin community attempting to defend its own interests. And this is not conspiracy, it’s an open struggle between two sides acting in their own interests.&lt;/p&gt;
-
-&lt;h3 id=&quot;mike-is-not-a-bitcoin-core-developer-and-furthermore-he-is-a-spokesperson-for-the-interests-of-the-banking-sector&quot;&gt;1. Mike is not a Bitcoin Core developer, and furthermore he is a spokesperson for the interests of the banking sector&lt;/h3&gt;
-
-&lt;p&gt;Let’s firstly clear up the issue of just who Mike Hearn is. In fact, he is not an agreed Bitcoin Core developer. Based on https://bitcoin.org/zh_CN/development, there are six Bitcoin Core developers, absolutely not including Mike Hearn.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/death-of-bitcoin-conspiracy/2016-01-17-death-of-bitcoin-conspiracy-2.jpg&quot; alt=&quot;Bitcoin&#39;s core developers, January 2016&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A computer programmer, Mike wrote a Java library called Bitcoinj. He develops third-party tools for bitcoin, and essentially is not an agreed Bitcoin developer. In the six or so years since he entered Bitcoin development, he has submitted 3 bugs related to Bitcoin code, ranking him #98 among all Bitcoin contributors.&lt;/p&gt;
-
-&lt;p&gt;Through the following three views expressed by Mike, we can identify the role he plays within the Bitcoin community:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;He once propsed to the Bitcoin Foundation a rollback function for Bitcoin, whereby when Bitcoins are sent they would be frozen for a certain period, within which the sender could reclaim them. This would remove the Bitcoin transactions’ essentially irreversible nature  and render limit the scope of Bitcoin’s freedom.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;He raised the suggestion of a Bitcoin node IP list, an attempt to separate anonymity from Bitcoin that met with fierce resistance from the Bitcoin community.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;BitcoinXT, which he developed, apart from supporting a blacklist, also supports big blocks.This would lead to an increase the the cost of running a Bitcoin node and a consequent reduction in the size of the Bitcoin network, allowing it to be controlled by large corporations and eliminating the decentralization that is among Bitcoin’s unique selling points.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;As can be seen from the above, many of Mike’s suggestions were completely contrary to the ideas of Bitcoin. In fact, in light of both his words and actions, his voice is met with howls of derision by a Bitcoin community in which he is considered less than welcome. Further, his statements are completely in line with the interests of big banks (destroying in inability to control Bitcoin, stripping the blockchain of its current status as financial service), which may explain his recruitment at R3CEV.&lt;/p&gt;
-
-&lt;p&gt;R3CEV is a blockchain company whose principal activity is developing blockchain-based technology for business. Behind it lies the support of forty-two major global banks including Goldman Sachs, Morgan Stanley, etc. Their aim us to destroy Bitcoin’s resistance to control and to separate blockchain technology from its current status as a financial service. This is like a thief who, having stolen Satoshi Nakamoto’s blockchain technology, now also want to kill that same blockchain technology. Previously, the advice given to the American government on how to destroy Bitcoin by 兰德 was to a basic strategy: discredit Bitcoin.&lt;/p&gt;
-
-&lt;p&gt;R3CEV’s CTO is Tim Swanson, whose attitude of hostility to Bitcoin has been revealed time and again in media reports where he claims it is falling behind, not worth interest. Much like the point of view expressed by Mike Hearn. In fact Mike was enlisted as Tim Swanson’s general.&lt;/p&gt;
-
-&lt;p&gt;This blockchain business, although seeking to destroy the most valuable blockchain in existence, is also creating its own, emasculated blockchain for the services of its clients. At the meeting on 15 Jan, the theme was indeed “Beyond Bitcoin.” In fact discussion revolved around the blockchain. During a meeting on the blockchain, for a blockchain company to declare Bitcoin to have failed can only be considered a declaration of war, absolutely not an accurate description.&lt;/p&gt;
-
-&lt;h3 id=&quot;nobody-can-announce-the-failure-of-bitcoin&quot;&gt;2. Nobody can announce the failure of Bitcoin&lt;/h3&gt;
-
-&lt;p&gt;On 4 Jan, 2009, Satoshi Nakamoto completed the first Bitcoin client and achieved an operational status now seven years old. Nakamoto is Bitcoin’s creator and first core developer. Aside from Nakamoto, there has been a constant supply of excellent programmers entering the ranks of Bitcoin developers, contributing code and moving Bitcoin forward.&lt;/p&gt;
-
-&lt;p&gt;A Bitcoin Core developer, however, is nothing more than a custodian of the Bitcoin code. This status does not allow them to decide on the future direction of Bitcoin, let alone to determine whether or not it has failed. The role of a Bitcoin Core developer is to add new features promptly and in line with the demands of the Bitcoin community.&lt;/p&gt;
-
-&lt;p&gt;The Bitcoin code is open source, followed by thousands of programmers across the world. Even if a single developer were to be bought by a bank and ‘turned’, even if they introduced such as ideas as “rollbacks” and “black lists”, the community would notice, in the first instance, and then the new code would be rejected by both miners and nodes and the new client would not be used. The ‘turncoat’ would have no effect, as new programmers could simply duplicate the actual Bitcoin code and in turn become its defenders themselves.&lt;/p&gt;
-
-&lt;p&gt;Real Bitcoin Core developers are lining up on Twitter to expose Mike, the bogus core developer, as dishonest. Real Core developers are more concerned with maintaining network stability, they live on the level of code. They don’t have the wild political ambitions that would lead one to unilaterally decide on the future direction of Bitcoin.&lt;/p&gt;
-
-&lt;p&gt;Bitcoin miners are defenders of the Bitcoin network, one aspect of their work being account-keeping, the other establishing a secure shield for the network. As Nakamoto explained in the Bitcoin white paper, the most essential principle underlying the operation of the network is voting with network hashing power. Those who seek the authority to maintain the ledger must have the hashing power to make those decisions. Malicious actors on the network have no way to bypass the barriers created by miners and their network hashing power.&lt;/p&gt;
-
-&lt;p&gt;After seven years of growth, the Bitcoin network as increasingly robust. Total hashing power now exceeds 1000p. Mathematics is the most powerful arm, and currently there exists nothing which could penetrate Bitcoin’s defenses. Bitcoin’s code base as been updated many times, from Satoshi’s Bitcoin-Qt to the current Bitcoin Core, always evolving and becoming more perfect.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;This is the 89th attempt to proclaim the death of Bitcoin on record. The reasons cited include technological factors, political control, personal disputes, media disputes. Bitcoin has never suffered as a result.&lt;/strong&gt; On the contrary, it’s growth is increasingly powerful. This time will be no exception. Any structure which plots to control Bitcoin can only fail.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 17 Jan 2016 00:00:00 +0000</pubDate>
-        <link>https://bitcoinzh.com/death-of-bitcoin-legacy-banking-conspiracy</link>
-        <guid isPermaLink="true">https://bitcoinzh.com/death-of-bitcoin-legacy-banking-conspiracy</guid>
         
         
         <category>china-talks-bitcoin</category>
