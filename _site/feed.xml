@@ -5,8 +5,8 @@
     <description>China Talks Bitcoin</description>
     <link>https://bitcoinzh.com/</link>
     <atom:link href="https://bitcoinzh.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Feb 2016 19:08:20 +0000</pubDate>
-    <lastBuildDate>Tue, 02 Feb 2016 19:08:20 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Feb 2016 19:19:10 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Feb 2016 19:19:10 +0000</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
@@ -33,13 +33,13 @@
 
 &lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-2.jpg&quot; alt=&quot;Where do you store your private keys?, response by A Pa&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;a-pa&quot;&gt;A Pa:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;A Pa&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;p&gt;Should be multi-select, I do a few.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-3.jpg&quot; alt=&quot;Where do you store your private keys?, response by sunary100&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;sunary100&quot;&gt;sunary100:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;sunary100&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;p&gt;I’m more worried about what happens if the memory stick breaks.&lt;/p&gt;
 
@@ -53,13 +53,13 @@
 
 &lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-5.jpg&quot; alt=&quot;Where do you store your private keys?, response by Little Ant&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;little-ant&quot;&gt;小蚂蚁 Little Ant:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;小蚂蚁 Little Ant&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;p&gt;Memory sticks break so put them on at least three different online cloud storage services, not only within China.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-6.jpg&quot; alt=&quot;Where do you store your private keys?, response by aione110&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;aione110&quot;&gt;aione110:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;aione110&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“memory sticks break so put them on at least three different online cloud storage services, not only within China.”&lt;/p&gt;
@@ -69,7 +69,7 @@
 
 &lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-6.jpg&quot; alt=&quot;Where do you store your private keys?, response by sunary100&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;sunary100-1&quot;&gt;sunary100:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;sunary100&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“I don’t really trust uploading my encryption keys to a cloud storage provider.”&lt;/p&gt;
@@ -79,7 +79,7 @@
 
 &lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-7.jpg&quot; alt=&quot;Where do you store your private keys?, response by aione110&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;aione110-1&quot;&gt;aione110:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;aione110&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“Put a little bit on each one, all mixed up.”&lt;/p&gt;
@@ -89,13 +89,13 @@
 
 &lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-8.jpg&quot; alt=&quot;Where do you store your private keys?, response by sunary100&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;sunary100-2&quot;&gt;sunary100:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;sunary100&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;p&gt;This was done with a script, someone reported a similar script and now they don’t work.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-9.jpg&quot; alt=&quot;Where do you store your private keys?, response by aione110&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;aione110-2&quot;&gt;aione110:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;aione110&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“This was done with a script, someone reported a similar script and now they don’t work.”&lt;/p&gt;
@@ -105,7 +105,7 @@
 
 &lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-10.jpg&quot; alt=&quot;Where do you store your private keys?, response by sunary100&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;sunary100-3&quot;&gt;sunary100:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;sunary100&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“I don’t really understand this.”&lt;/p&gt;
@@ -115,25 +115,25 @@
 
 &lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-11.jpg&quot; alt=&quot;Where do you store your private keys?, response by ALL-IN&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;all-in&quot;&gt;ALL-IN:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;ALL-IN&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;p&gt;I give the memory stick to the wife.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-12.jpg&quot; alt=&quot;Where do you store your private keys?, response by jsyzgaoyou&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;jsyzgaoyou&quot;&gt;jsyzgaoyou:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;jsyzgaoyou&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;p&gt;Just in a drawer, split into a few different places.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-13.jpg&quot; alt=&quot;Where do you store your private keys?, response by Dogecoin-Keeper&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;dogecoin-keeper&quot;&gt;Dogecoin-Keeper:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Dogecoin-Keeper&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;p&gt;Put it inside the bookcase.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-14.jpg&quot; alt=&quot;Where do you store your private keys?, response by aione110&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;aione110-3&quot;&gt;aione110:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;aione110&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“Compress them with RAR, split the private keys into three files, A, B and C. Keep the pass phrase with my phone numbers. Put the three RAR files on different cloud providers…”&lt;/p&gt;
@@ -143,25 +143,25 @@
 
 &lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-15.jpg&quot; alt=&quot;Where do you store your private keys?, response by 2061628027&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section&quot;&gt;2061628027:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;2061628027&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;p&gt;They’re most secure on your computer.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-16.jpg&quot; alt=&quot;Where do you store your private keys?, response by A Pa&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;a-pa-1&quot;&gt;A Pa:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;A Pa&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;p&gt;Are you sure? Don’t be misleading the noobs.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-17.jpg&quot; alt=&quot;Where do you store your private keys?, response by bilibili92&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;bilibili92&quot;&gt;bilibili92:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;bilibili92&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;p&gt;Put the compressed private keys onto a memory stick or GDrive, keep the paper backup in your wallet.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://bitcoinzh.com/images/translations/where-do-you-store-private-keys/2016-02-02-where-do-you-store-private-keys-18.jpg&quot; alt=&quot;Where do you store your private keys?, response by wangyisong72&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;wangyisong72&quot;&gt;wangyisong72:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;wangyisong72&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;p&gt;In a bank vault.&lt;/p&gt;
 </description>
