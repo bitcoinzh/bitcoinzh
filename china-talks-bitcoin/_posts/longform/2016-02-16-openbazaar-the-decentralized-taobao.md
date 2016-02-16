@@ -5,7 +5,7 @@ description: "As the OpenBazaar project gathers momentum, the rise of a threat t
 translator: "Damian O'Loan"
 source_url: http://8btc.com/thread-29027-1-1.html
 source_site: 8btc.com
-img-path: /images/translations/where-do-you-store-private-keys/2016-02-16-openbazaar-the-decentralized-taobao.jpg
+img-path: /images/translations/openbazaar-the-decentralized-taobao/2016-02-16-openbazaar-the-decentralized-taobao.jpg
 keyword: 去中心化 | Qu Zhong Xin Hua | Decentralization
 ---
 **Jack Ma will be weeping. The decentralized Taobao, Openbazaar, is in beta release!**
