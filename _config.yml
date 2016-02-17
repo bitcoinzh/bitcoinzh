@@ -12,7 +12,7 @@ twitter_username: bitcoinzh
 github_username:  bitcoinzh
 bitcoin_address: 3QLvZUHuWDpq84tXaij2FAcgsm3ZjSccYk
 permalink: /:title
-paginate: 4
+paginate: 6
 paginate_path: /china-talks-bitcoin/:num
 
 # Gems

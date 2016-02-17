@@ -6,13 +6,13 @@ title: China Talks Bitcoin
 
 {% if paginator.page == 1 %}<p class="intro-text home-intro">BitcoinZH features English translations of Bitcoin and Bitcoin Blockchain discussion in Chinese media</p>{% endif %}
 
-<ul class="post-list">
+<ul class="post-list grid-container">
 {% for post in paginator.posts %}
   <a class="post-link" href="{{ post.url }}">
-    <li>
+    <li class="one-half-col {%cycle ' second-half-col', '' %}">
       <img src="{{ post.img-path | prepend: site.url }}" alt="{{ post.title }}" />
       <div class="img-mask"></div>
-      <h2>{{ post.title | truncate: 48 }}</h2>
+      <h1>{{ post.title | truncate: 48 }}</h1>
       <span class="index-meta">{{ post.date | date: "%x" }}</span>
     </li>
   </a>

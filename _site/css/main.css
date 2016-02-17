@@ -540,6 +540,11 @@ div.social-shares {
 .grid-container .one-half-col {
   width: 50%;
   float: left; }
+  @media screen and (max-width: 750px) {
+    .grid-container .one-half-col {
+      width: 100%; } }
+.grid-container .second-half-col {
+  clear: both; }
 
 ul.post-list {
   margin-left: 0;
@@ -560,7 +565,7 @@ ul.post-list {
       background: #111;
       opacity: 0.8;
       z-index: 2; }
-    ul.post-list a li h2 {
+    ul.post-list a li h1 {
       position: absolute;
       top: 40%;
       left: 10%;
@@ -573,7 +578,7 @@ ul.post-list {
       transition: all 0.5s ease;
       padding: 15px;
       z-index: 3;
-      font-size: 5rem; }
+      font-size: 2.6rem; }
     ul.post-list a li span.index-meta {
       position: absolute;
       top: 2.5%;
@@ -588,18 +593,18 @@ ul.post-list {
       max-width: 90%;
       margin-left: 5%; }
     @media screen and (max-width: 800px) {
-      ul.post-list a li h2 {
+      ul.post-list a li h1 {
         padding: 7.5px;
-        font-size: 4rem;
+        font-size: 2.2rem;
         right: 20%; }
       ul.post-list a li span.index-meta {
         font-size: 1.6rem; } }
     @media screen and (max-width: 750px) {
-      ul.post-list a li h2 {
-        font-size: 2.6rem; }
+      ul.post-list a li h1 {
+        font-size: 2rem; }
       ul.post-list a li span.index-meta {
         font-size: 1.4rem; } }
-  ul.post-list a li:hover h2 {
+  ul.post-list a li:hover h1 {
     border-bottom: 4px solid #cf000f; }
   ul.post-list a li:hover div.img-mask {
     opacity: 0.85; }
