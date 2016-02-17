@@ -10,6 +10,8 @@ keyword: 富豪榜 | Fu Hao Bang | Rich List
 ---
 **Original Chinese Author: Shi Nai An**
 
+![Bitcoin Rich List China, 2015, original Chinese text from bikeji.com]({{ '/images/translations/bitcoin-rich-list-china-2015/2016-02-17-bitcoin-rich-list-china-2015.jpg' | prepend: site.url }})
+
 **1. 吴忌寒 Wu Jihan**
 
 **Position**: Founder & CEO, Bitmain / Antminer
